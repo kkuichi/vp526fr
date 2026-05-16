@@ -44,8 +44,6 @@ sklep/
 ```
 
 ## Spustenie
-??????
-
 ### Požiadavky
 
 - Python 3.10
@@ -78,7 +76,11 @@ python generative/test_mistral_extra.py
 python generative/test_mistral_pos_qa.py
 python generative/test_large_nemo_extra.py
 ```
+## Výsledky
 
+Slovak BERT s doladením vyhral na 7 z 9 úloh. Generatívne modely Mistral boli lepšie na RTE 
+(kde BERT nemal dosť trénovacích dát) a na QA. Slovak GPT-J dopadol najhoršie, pretože nie je 
+inštrukčne doladený. Kompletné výsledky a analýza sú v texte bakalárskej práce.
 
 ## Dáta
 
