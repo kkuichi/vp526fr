@@ -1,0 +1,10 @@
+{
+  "model": "mistral-small-latest",
+  "results": {
+    "sentiment-analysis": 97.0,
+    "hate-speech": 71.0,
+    "nli": 64.0,
+    "rte": 63.0,
+    "sts_pearson": 0.4245
+  }
+}

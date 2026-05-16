@@ -1,0 +1,5 @@
+{
+  "task": "ner-uner",
+  "model": "Milos/slovak-gpt-j-1.4B",
+  "token_accuracy": 0.29
+}

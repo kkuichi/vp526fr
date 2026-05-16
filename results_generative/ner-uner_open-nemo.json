@@ -1,0 +1,5 @@
+{
+  "task": "ner-uner",
+  "model": "open-mistral-nemo",
+  "token_accuracy": 26.39
+}

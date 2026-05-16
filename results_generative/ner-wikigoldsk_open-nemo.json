@@ -1,0 +1,5 @@
+{
+  "task": "ner-wikigoldsk",
+  "model": "open-mistral-nemo",
+  "token_accuracy": 16.77
+}

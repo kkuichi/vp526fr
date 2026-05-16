@@ -1,0 +1,5 @@
+{
+  "task": "question-answering",
+  "model": "open-mistral-nemo",
+  "accuracy": 64.0
+}

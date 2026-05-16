@@ -1,0 +1,5 @@
+{
+  "task": "sts",
+  "model": "Milos/slovak-gpt-j-1.4B",
+  "pearson": -0.1928
+}

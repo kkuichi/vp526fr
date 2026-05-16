@@ -1,0 +1,609 @@
+{
+  "task": "nli",
+  "model": "mistral-large-latest",
+  "accuracy": 57.99999999999999,
+  "correct": 58,
+  "total": 100,
+  "predictions": [
+    {
+      "true": 0,
+      "pred": 2,
+      "response": "rozpor",
+      "correct": false
+    },
+    {
+      "true": 0,
+      "pred": 1,
+      "response": "neutralny",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "neutralny",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 0,
+      "response": "implikácia",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "neutralny",
+      "correct": true
+    },
+    {
+      "true": 2,
+      "pred": 2,
+      "response": "rozpor",
+      "correct": true
+    },
+    {
+      "true": 2,
+      "pred": 2,
+      "response": "rozpor",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 2,
+      "response": "rozpor",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "neutralny",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 0,
+      "response": "implikácia",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "neutralny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "neutralny",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 1,
+      "response": "neutralny",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": 0,
+      "response": "implikácia",
+      "correct": false
+    },
+    {
+      "true": 2,
+      "pred": 2,
+      "response": "rozpor",
+      "correct": true
+    },
+    {
+      "true": 2,
+      "pred": 2,
+      "response": "rozpor",
+      "correct": true
+    },
+    {
+      "true": 2,
+      "pred": 2,
+      "response": "rozpor",
+      "correct": true
+    },
+    {
+      "true": 2,
+      "pred": 2,
+      "response": "rozpor",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 2,
+      "response": "rozpor",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": 2,
+      "response": "rozpor",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "neutralny",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 1,
+      "response": "neutralny",
+      "correct": false
+    },
+    {
+      "true": 2,
+      "pred": 2,
+      "response": "rozpor",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 2,
+      "response": "rozpor",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": 0,
+      "response": "implikácia",
+      "correct": false
+    },
+    {
+      "true": 2,
+      "pred": 2,
+      "response": "rozpor",
+      "correct": true
+    },
+    {
+      "true": 2,
+      "pred": 2,
+      "response": "rozpor",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 2,
+      "response": "rozpor",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": 2,
+      "response": "rozpor",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": 2,
+      "response": "rozpor",
+      "correct": false
+    },
+    {
+      "true": 2,
+      "pred": 2,
+      "response": "rozpor",
+      "correct": true
+    },
+    {
+      "true": 2,
+      "pred": 2,
+      "response": "rozpor",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 0,
+      "response": "implikácia",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": 2,
+      "response": "rozpor",
+      "correct": false
+    },
+    {
+      "true": 0,
+      "pred": 0,
+      "response": "implikácia",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 2,
+      "response": "rozpor",
+      "correct": false
+    },
+    {
+      "true": 0,
+      "pred": 0,
+      "response": "implikácia",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 1,
+      "response": "neutralny",
+      "correct": false
+    },
+    {
+      "true": 0,
+      "pred": 0,
+      "response": "implikácia",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 1,
+      "response": "neutralny",
+      "correct": false
+    },
+    {
+      "true": 0,
+      "pred": 0,
+      "response": "implikácia",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "neutralny",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 0,
+      "response": "implikácia",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": -1,
+      "response": "ekvivalencia",
+      "correct": false
+    },
+    {
+      "true": 2,
+      "pred": 2,
+      "response": "rozpor",
+      "correct": true
+    },
+    {
+      "true": 2,
+      "pred": 2,
+      "response": "rozpor",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 0,
+      "response": "implikácia",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 1,
+      "response": "neutralny",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "neutralny",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 1,
+      "response": "neutralny",
+      "correct": false
+    },
+    {
+      "true": 2,
+      "pred": 2,
+      "response": "rozpor",
+      "correct": true
+    },
+    {
+      "true": 2,
+      "pred": 2,
+      "response": "rozpor",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 2,
+      "response": "rozpor",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": 0,
+      "response": "implikácia",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": 0,
+      "response": "implikácia",
+      "correct": false
+    },
+    {
+      "true": 2,
+      "pred": 2,
+      "response": "rozpor",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 0,
+      "response": "implikácia",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 1,
+      "response": "neutralny",
+      "correct": false
+    },
+    {
+      "true": 2,
+      "pred": 1,
+      "response": "neutralny",
+      "correct": false
+    },
+    {
+      "true": 0,
+      "pred": 1,
+      "response": "neutralny",
+      "correct": false
+    },
+    {
+      "true": 2,
+      "pred": 2,
+      "response": "rozpor",
+      "correct": true
+    },
+    {
+      "true": 2,
+      "pred": 2,
+      "response": "rozpor",
+      "correct": true
+    },
+    {
+      "true": 2,
+      "pred": 2,
+      "response": "rozpor",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 0,
+      "response": "implikácia",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "neutralny",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 2,
+      "response": "rozpor",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "neutralny",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": -1,
+      "response": "ekvivalencia",
+      "correct": false
+    },
+    {
+      "true": 2,
+      "pred": 2,
+      "response": "rozpor",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 0,
+      "response": "implikácia",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 0,
+      "response": "implikácia",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 0,
+      "response": "implikácia",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 1,
+      "response": "neutralny",
+      "correct": false
+    },
+    {
+      "true": 0,
+      "pred": 1,
+      "response": "neutralny",
+      "correct": false
+    },
+    {
+      "true": 2,
+      "pred": 2,
+      "response": "rozpor",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 1,
+      "response": "neutralny",
+      "correct": false
+    },
+    {
+      "true": 0,
+      "pred": 1,
+      "response": "neutralny",
+      "correct": false
+    },
+    {
+      "true": 2,
+      "pred": 2,
+      "response": "rozpor",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 1,
+      "response": "neutralny",
+      "correct": false
+    },
+    {
+      "true": 0,
+      "pred": 2,
+      "response": "rozpor",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": 0,
+      "response": "implikácia",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "neutralny",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 0,
+      "response": "implikácia",
+      "correct": true
+    },
+    {
+      "true": 2,
+      "pred": 2,
+      "response": "rozpor",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 0,
+      "response": "implikácia",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "neutralny",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 2,
+      "response": "rozpor",
+      "correct": false
+    },
+    {
+      "true": 0,
+      "pred": 0,
+      "response": "implikácia",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 1,
+      "response": "neutralny",
+      "correct": false
+    },
+    {
+      "true": 2,
+      "pred": 2,
+      "response": "rozpor",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 0,
+      "response": "implikácia",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 0,
+      "response": "implikácia",
+      "correct": false
+    },
+    {
+      "true": 0,
+      "pred": 0,
+      "response": "implikácia",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "neutralny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "neutralny",
+      "correct": true
+    },
+    {
+      "true": 2,
+      "pred": 1,
+      "response": "neutralny",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "neutralny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "neutralny",
+      "correct": true
+    },
+    {
+      "true": 2,
+      "pred": 2,
+      "response": "rozpor",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 0,
+      "response": "implikácia",
+      "correct": false
+    }
+  ]
+}

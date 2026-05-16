@@ -1,0 +1,711 @@
+{
+  "task": "nli",
+  "model": "Milos/slovak-gpt-j-1.4B",
+  "metric": "accuracy",
+  "value": 39.0,
+  "correct": 39,
+  "total": 100,
+  "time_minutes": 8.2,
+  "predictions": [
+    {
+      "idx": 1593,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": true
+    },
+    {
+      "idx": 4668,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": true
+    },
+    {
+      "idx": 1168,
+      "true_label": 1,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": false
+    },
+    {
+      "idx": 680,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": true
+    },
+    {
+      "idx": 96,
+      "true_label": 1,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": false
+    },
+    {
+      "idx": 3139,
+      "true_label": 2,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": false
+    },
+    {
+      "idx": 457,
+      "true_label": 2,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": false
+    },
+    {
+      "idx": 875,
+      "true_label": 1,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": false
+    },
+    {
+      "idx": 336,
+      "true_label": 1,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": false
+    },
+    {
+      "idx": 4445,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": true
+    },
+    {
+      "idx": 2894,
+      "true_label": 1,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny. Odpoved je:",
+      "correct": false
+    },
+    {
+      "idx": 1277,
+      "true_label": 1,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": false
+    },
+    {
+      "idx": 3763,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny. Odpoved je:",
+      "correct": true
+    },
+    {
+      "idx": 3919,
+      "true_label": 1,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": false
+    },
+    {
+      "idx": 1443,
+      "true_label": 2,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": false
+    },
+    {
+      "idx": 1096,
+      "true_label": 2,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": false
+    },
+    {
+      "idx": 1373,
+      "true_label": 2,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": false
+    },
+    {
+      "idx": 99,
+      "true_label": 2,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny. Odpoved je:",
+      "correct": false
+    },
+    {
+      "idx": 1635,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": true
+    },
+    {
+      "idx": 4766,
+      "true_label": 1,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": false
+    },
+    {
+      "idx": 4751,
+      "true_label": 1,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": false
+    },
+    {
+      "idx": 1348,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": true
+    },
+    {
+      "idx": 2287,
+      "true_label": 2,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": false
+    },
+    {
+      "idx": 1040,
+      "true_label": 1,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny. Odpoved je:",
+      "correct": false
+    },
+    {
+      "idx": 3840,
+      "true_label": 1,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny. Odpoved je:",
+      "correct": false
+    },
+    {
+      "idx": 1394,
+      "true_label": 2,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": false
+    },
+    {
+      "idx": 2171,
+      "true_label": 2,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": false
+    },
+    {
+      "idx": 4455,
+      "true_label": 1,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": false
+    },
+    {
+      "idx": 714,
+      "true_label": 1,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny. Odpoved je:",
+      "correct": false
+    },
+    {
+      "idx": 2900,
+      "true_label": 1,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": false
+    },
+    {
+      "idx": 3511,
+      "true_label": 2,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny. Odpoved je:",
+      "correct": false
+    },
+    {
+      "idx": 1548,
+      "true_label": 2,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": false
+    },
+    {
+      "idx": 1184,
+      "true_label": 1,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": false
+    },
+    {
+      "idx": 1763,
+      "true_label": 1,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": false
+    },
+    {
+      "idx": 4164,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": true
+    },
+    {
+      "idx": 2470,
+      "true_label": 1,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny. Odpoved je:",
+      "correct": false
+    },
+    {
+      "idx": 3922,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny. Odpoved je:",
+      "correct": true
+    },
+    {
+      "idx": 2637,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": true
+    },
+    {
+      "idx": 3007,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": true
+    },
+    {
+      "idx": 790,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": true
+    },
+    {
+      "idx": 2904,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": true
+    },
+    {
+      "idx": 1049,
+      "true_label": 1,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": false
+    },
+    {
+      "idx": 41,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": true
+    },
+    {
+      "idx": 2071,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": true
+    },
+    {
+      "idx": 2795,
+      "true_label": 2,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": false
+    },
+    {
+      "idx": 1832,
+      "true_label": 2,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": false
+    },
+    {
+      "idx": 352,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": true
+    },
+    {
+      "idx": 3050,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": true
+    },
+    {
+      "idx": 4195,
+      "true_label": 1,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny. Odpoved je:",
+      "correct": false
+    },
+    {
+      "idx": 3379,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": true
+    },
+    {
+      "idx": 623,
+      "true_label": 2,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": false
+    },
+    {
+      "idx": 4176,
+      "true_label": 2,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": false
+    },
+    {
+      "idx": 829,
+      "true_label": 1,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": false
+    },
+    {
+      "idx": 1491,
+      "true_label": 1,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny. Odpoved je:",
+      "correct": false
+    },
+    {
+      "idx": 3156,
+      "true_label": 1,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": false
+    },
+    {
+      "idx": 801,
+      "true_label": 2,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": false
+    },
+    {
+      "idx": 600,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": true
+    },
+    {
+      "idx": 4481,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": true
+    },
+    {
+      "idx": 3648,
+      "true_label": 2,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": false
+    },
+    {
+      "idx": 1232,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": true
+    },
+    {
+      "idx": 502,
+      "true_label": 2,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": false
+    },
+    {
+      "idx": 3902,
+      "true_label": 2,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": false
+    },
+    {
+      "idx": 1756,
+      "true_label": 2,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": false
+    },
+    {
+      "idx": 3915,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": true
+    },
+    {
+      "idx": 3967,
+      "true_label": 1,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": false
+    },
+    {
+      "idx": 1959,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny. Odpoved je:",
+      "correct": true
+    },
+    {
+      "idx": 3279,
+      "true_label": 1,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": false
+    },
+    {
+      "idx": 3622,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": true
+    },
+    {
+      "idx": 2592,
+      "true_label": 2,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": false
+    },
+    {
+      "idx": 4723,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": true
+    },
+    {
+      "idx": 3605,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny. Odpoved je:",
+      "correct": true
+    },
+    {
+      "idx": 2539,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": true
+    },
+    {
+      "idx": 2407,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": true
+    },
+    {
+      "idx": 333,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": true
+    },
+    {
+      "idx": 947,
+      "true_label": 2,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": false
+    },
+    {
+      "idx": 824,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": true
+    },
+    {
+      "idx": 3016,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": true
+    },
+    {
+      "idx": 2866,
+      "true_label": 2,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": false
+    },
+    {
+      "idx": 2553,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": true
+    },
+    {
+      "idx": 517,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": true
+    },
+    {
+      "idx": 85,
+      "true_label": 1,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": false
+    },
+    {
+      "idx": 2970,
+      "true_label": 1,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": false
+    },
+    {
+      "idx": 1300,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": true
+    },
+    {
+      "idx": 1412,
+      "true_label": 2,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": false
+    },
+    {
+      "idx": 3852,
+      "true_label": 1,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": false
+    },
+    {
+      "idx": 981,
+      "true_label": 1,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": false
+    },
+    {
+      "idx": 302,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": true
+    },
+    {
+      "idx": 2048,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": true
+    },
+    {
+      "idx": 1213,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": true
+    },
+    {
+      "idx": 2268,
+      "true_label": 2,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": false
+    },
+    {
+      "idx": 3573,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny. Odpoved je:",
+      "correct": true
+    },
+    {
+      "idx": 2231,
+      "true_label": 1,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny. Odpoved je:",
+      "correct": false
+    },
+    {
+      "idx": 4310,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny. Odpoved je:",
+      "correct": true
+    },
+    {
+      "idx": 1034,
+      "true_label": 1,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny. Odpoved je:",
+      "correct": false
+    },
+    {
+      "idx": 1886,
+      "true_label": 1,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": false
+    },
+    {
+      "idx": 1830,
+      "true_label": 2,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": false
+    },
+    {
+      "idx": 2272,
+      "true_label": 1,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": false
+    },
+    {
+      "idx": 567,
+      "true_label": 1,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": false
+    },
+    {
+      "idx": 2895,
+      "true_label": 2,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": false
+    },
+    {
+      "idx": 4714,
+      "true_label": 1,
+      "predicted": 0,
+      "response": "implikacia, rozpor alebo neutralny.\n\nVeta",
+      "correct": false
+    }
+  ]
+}

@@ -42,7 +42,7 @@ class QuestionAnsweringTrainer(Trainer):
         # Temporarily disable metric computation, we will do it in the loop here.
         compute_metrics = self.compute_metrics
         self.compute_metrics = None
-        eval_loop = self.prediction_loop if self.args.use_legacy_prediction_loop else self.evaluation_loop
+        eval_loop = self.prediction_loop if getattr(self.args, "use_legacy_prediction_loop", False) else self.evaluation_loop
         start_time = time.time()
         try:
             output = eval_loop(
@@ -84,7 +84,7 @@ class QuestionAnsweringTrainer(Trainer):
             # Only the main node log the results by default
             self.log(metrics)
 
-        if self.args.tpu_metrics_debug or self.args.debug:
+        if getattr(self.args, "tpu_metrics_debug", False) or getattr(self.args, "debug", []):
             # tpu-comment: Logging debug metrics for PyTorch/XLA (compile, execute times, ops, etc.)
             xm.master_print(met.metrics_report())
 
@@ -97,7 +97,7 @@ class QuestionAnsweringTrainer(Trainer):
         # Temporarily disable metric computation, we will do it in the loop here.
         compute_metrics = self.compute_metrics
         self.compute_metrics = None
-        eval_loop = self.prediction_loop if self.args.use_legacy_prediction_loop else self.evaluation_loop
+        eval_loop = self.prediction_loop if getattr(self.args, "use_legacy_prediction_loop", False) else self.evaluation_loop
         start_time = time.time()
         try:
             output = eval_loop(

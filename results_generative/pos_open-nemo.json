@@ -1,0 +1,5 @@
+{
+  "task": "pos",
+  "model": "open-mistral-nemo",
+  "token_accuracy": 18.89
+}

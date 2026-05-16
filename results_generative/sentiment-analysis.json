@@ -1,0 +1,609 @@
+{
+  "task": "sentiment-analysis",
+  "model": "Milos/slovak-gpt-j-1.4B",
+  "accuracy": 3.0,
+  "correct": 3,
+  "total": 100,
+  "predictions": [
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Veľmi ochotná, nápomocná konzultantka. Ďakujem",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"ochota personalu a ponuka stanice\"",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"vzdy ked tam pridem ochotne poradia a",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"veľmi ochotná a rýchlo vybavena\"",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Monika bola veľmi nápomocná, milá,",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Bola velmi mila,ponukala nam",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Nevolá sa Marta ale Lucia a dufam ze",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Všetko ako má byť\"\n\nV texte",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"usmiati.\"\n\nText: \"",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Odbornosť a prístup ku klientovi.\"",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Bagety, ktoré som kúpila boli perfektné",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Chvalim celkovo, pristupnost, u",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Problem vyriesila, aj ked by",
+      "correct": false
+    },
+    {
+      "true": 0,
+      "pred": -1,
+      "response": "\"Doteraz sme nedostali vyjadrenie kde zmizlo cca 1000GB",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Samuel za pomoc\"\n\nText",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"pači sa mi žlta farba čerpacej stanice",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"ochota, záujem..\"",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Profesionálny prístup.\"\n\nOdpoved",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Velmi dobry pristup ku klientom.\"",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Bola príjemná a ústretová\"\n\nV",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"milý prístup, ponuka doplnkov...\"",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Chcem pochváliť pani <PEERSON> je",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Som velmi spokojna\"\n\nText:",
+      "correct": false
+    },
+    {
+      "true": 0,
+      "pred": -1,
+      "response": "\"Nedokázala plnohodnotne odpovedať priamo na položené otázky.\"",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Veľmi dobrá obsluha\"\n\nV texte sa",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Bol som veľmi spokojný\"\n\nV texte",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"super personal  šikanovany ludmi zo",
+      "correct": false
+    },
+    {
+      "true": 0,
+      "pred": -1,
+      "response": "\"Už nikdy neuzatvorím zmluvu takto cez",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Ďakujem!\"\n\nText: \"Obsah celého",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Bolo to super. Veľmi ochotná a mala vedomosti",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Milá, pohotova\"\n\nV texte",
+      "correct": false
+    },
+    {
+      "true": 0,
+      "pred": 1,
+      "response": "\"pozitivny alebo negativny.",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"super:)\"\n\nOdpoved je jedno",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitivny alebo negativny.",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"ochota\"\n\nV texte sa",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Asistentka <COMPANY4>",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Rychlo a kvalitne\"\n\nV",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Profesionálny milí prístup\"\n\nV",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"vždy super vysvetlí.... maximálne spokojný som",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Rychle a promptne vybavenie poz",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Je ustretovy a vie dobre poradit",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Rýchlo a bez problémov vybavil moju požiadavku",
+      "correct": false
+    },
+    {
+      "true": 0,
+      "pred": -1,
+      "response": "\"Malá starostlivosť o verných zákazníkov.\"\n\nText",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Bola ochotná a vyriešila problém s mobilom",
+      "correct": false
+    },
+    {
+      "true": 0,
+      "pred": 1,
+      "response": "pozitivny alebo negativny.",
+      "correct": false
+    },
+    {
+      "true": 0,
+      "pred": -1,
+      "response": "\"skoda slov, tankoval som za 52",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"bola mila a všetko vysvetlila zrozumitelne.",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"kedze nemohol moj problem z mesiaca Jul hned",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Ochota a profesionalita\"",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"čisto super obsluha\"\n\nV tomto",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Super rýchlo a k veľkej spokojnosti vybavená požiadavka.\"",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Veronika bola milá , ochotná a ponúkla",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Rýchle vybavenie ,spokojný .\"",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Vedela stručne a jasne povedať, čo je",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Bol ochotný všetko mi dôkladne vysvetlil.\"",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Potrebovala som vymenit sim-kartu",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Za ochotu a slušné jednanie\"",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Predajňa je veľmi pekná páčilo sa mi to",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Príjemná,milé vystupovanie poradila.",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"OK\"\n\nV texte sa nachádza slovo",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Na všetko čo som chcel vedieť my bolo odpoved",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Ochotná a milá obsluha, ktorá mi",
+      "correct": false
+    },
+    {
+      "true": 0,
+      "pred": -1,
+      "response": "\"pretoze chybny  telefon nebol vymeneny",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Je dobra\"\n\nV texte sa pise",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Všetko vysvetlil ako som potreboval.\"\n\nText",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Dakujem za milý pristup a ochotu nájsť riešenie",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Dakujem za rychle vybavenie moje pozia",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "\"pozitivny alebo negativny\"",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Pohotová, rýchla, príjemná.\"",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Dakujem bol som spokojny z obsluhou",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"TOP ;-)\"\n\nTo je",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitivny alebo negativny.",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Napomocne osoba, ktora mi vysla v",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Veľmi rýchlo má vybavil a poradil, za",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Zatiaľ ochotný a milý personál.\"\n\nText",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Ohľaduplný\"\n\nV texte",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Mila,prijemna,ocho",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Velmi ustretova ochotna mi",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Všetko ok\"\n\nV texte sa píše",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Skvelý prístup k zákazníkovi, dokonalá informovanosť\"",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Veľmi milý, ochotný a profesionálny prístup. Ďakujem",
+      "correct": false
+    },
+    {
+      "true": 0,
+      "pred": -1,
+      "response": "\"wc v zlom stave - v sobotu rano",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"velmi ochotny personal\"",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Naparádu!\"\n\nText:",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Ďakujem\"\n\nText: \"Rych",
+      "correct": false
+    },
+    {
+      "true": 0,
+      "pred": -1,
+      "response": "\"Malee poliicko !!!!\"",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Velmi mila prijemna a ocho",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Monika bola velni šikovna a dokázala",
+      "correct": false
+    },
+    {
+      "true": 0,
+      "pred": -1,
+      "response": "\"Dobry den, zakupila som si u",
+      "correct": false
+    },
+    {
+      "true": 0,
+      "pred": 1,
+      "response": "pozitivny alebo negativny.",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Bola profesionalna. A mila.\"",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Ďakujem za rýchle vybavenie\"\n\nV texte",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Ochotne odpovedala na všetky moje otázky,",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"seriozny prístup a profesionalitu",
+      "correct": false
+    },
+    {
+      "true": 0,
+      "pred": -1,
+      "response": "\"Niesom spokojny s <COMPANY",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Velmi ludsky ale aj profesional",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Milá a šikovná našu požiadavku rýchlo vybavila",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"dobra obluha . vsetko ok",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"vždy mi vedeli poradiť s mojím problémom.",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "\"Ďakujem za príjemnu komunikáciu a kladné vybavenie mojej",
+      "correct": false
+    }
+  ]
+}

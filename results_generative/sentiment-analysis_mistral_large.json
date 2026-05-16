@@ -1,0 +1,609 @@
+{
+  "task": "sentiment-analysis",
+  "model": "mistral-large-latest",
+  "accuracy": 92.0,
+  "correct": 92,
+  "total": 100,
+  "predictions": [
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitívny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitívny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitívny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitívny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitívny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitivny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitívny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "neutrálny",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitivny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitívny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitívny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitívny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitívny",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 0,
+      "response": "negatívny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "neutrálny",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitivny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitívny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitívny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitivny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitívny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitívny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitívny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitivny",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 0,
+      "response": "negatívny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitivny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitívny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 0,
+      "response": "negatívny",
+      "correct": false
+    },
+    {
+      "true": 0,
+      "pred": 0,
+      "response": "negatívny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitívny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitivny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitivny",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 0,
+      "response": "negatívny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitivny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitivny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitivny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitívny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitívny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitívny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitivny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitívny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitívny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitivny",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 0,
+      "response": "negatívny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitívny",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 0,
+      "response": "negatívny",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 0,
+      "response": "negatívny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitívny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 0,
+      "response": "negatívny",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitívny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitivny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitívny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitívny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitívny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitívny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitívny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitivny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitívny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitívny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitivny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "neutrálny",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitívny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitívny",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 0,
+      "response": "negatívny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitivny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitívny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitívny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitivny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitívny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitívny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitívny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitivny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "neutrálny",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitívny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitívny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitívny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitivny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitivny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitivny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": -1,
+      "response": "neutrálny",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitívny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitívny",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 0,
+      "response": "negatívny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitivny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitívny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitivny",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 1,
+      "response": "pozitivny",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitívny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitívny",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 0,
+      "response": "negatívny",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 0,
+      "response": "negatívny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitivny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitívny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitívny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitivny",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 0,
+      "response": "negatívny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitivny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitívny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitivny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitívny",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "pozitívny",
+      "correct": true
+    }
+  ]
+}

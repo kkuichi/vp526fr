@@ -1,0 +1,5 @@
+{
+  "task": "pos",
+  "model": "mistral-small-latest",
+  "token_accuracy": 11.35
+}

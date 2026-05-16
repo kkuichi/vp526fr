@@ -1,0 +1,711 @@
+{
+  "task": "rte",
+  "model": "Milos/slovak-gpt-j-1.4B",
+  "metric": "accuracy",
+  "value": 33.0,
+  "correct": 33,
+  "total": 100,
+  "time_minutes": 5.9,
+  "predictions": [
+    {
+      "idx": 563,
+      "true_label": 1,
+      "predicted": 1,
+      "response": "\"Ano alebo nie?\"\n\nVeta 3: \"Leukémia",
+      "correct": true
+    },
+    {
+      "idx": 1175,
+      "true_label": 1,
+      "predicted": 1,
+      "response": "\"Podľa správ muž uniesol osobné lietadlo v jamajskom letovisku Monte",
+      "correct": true
+    },
+    {
+      "idx": 1151,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "\"Áno, liečiteľka.\"\n\nVeta 3: \"Lieči",
+      "correct": true
+    },
+    {
+      "idx": 1610,
+      "true_label": 1,
+      "predicted": 1,
+      "response": "\"Áno, ale nie je to vírus.\"\n\nVeta 3:",
+      "correct": true
+    },
+    {
+      "idx": 26,
+      "true_label": 0,
+      "predicted": 1,
+      "response": "\"Áno, ale nie je to pravda.\"\n\nVeta 3:",
+      "correct": false
+    },
+    {
+      "idx": 317,
+      "true_label": 0,
+      "predicted": -1,
+      "response": "\"Agorafóbia je rozšírená porucha, ktorou trpí približne 1 z 20",
+      "correct": false
+    },
+    {
+      "idx": 1628,
+      "true_label": 1,
+      "predicted": 1,
+      "response": "\"Áno, ale nie je to Angelina Jolie.\"\n\nVe",
+      "correct": true
+    },
+    {
+      "idx": 548,
+      "true_label": 0,
+      "predicted": -1,
+      "response": "\"Vysoký predstaviteľ pre SZBP Javier Solana a osobitný vyslanec",
+      "correct": false
+    },
+    {
+      "idx": 197,
+      "true_label": 1,
+      "predicted": 0,
+      "response": "\"Hans a Erna Kellerovci žijú v Drážďanoch",
+      "correct": false
+    },
+    {
+      "idx": 234,
+      "true_label": 1,
+      "predicted": -1,
+      "response": "\"Na východnom pobreží ostrova Hokkaido došlo k zemetraseniu.\"",
+      "correct": false
+    },
+    {
+      "idx": 1226,
+      "true_label": 0,
+      "predicted": 1,
+      "response": "\"Ano alebo nie?\"\n\nVeta 3: \"Pápež priletel",
+      "correct": false
+    },
+    {
+      "idx": 148,
+      "true_label": 1,
+      "predicted": 1,
+      "response": "ano alebo nie.\n\nVeta 3: \"Steve Price",
+      "correct": true
+    },
+    {
+      "idx": 782,
+      "true_label": 0,
+      "predicted": -1,
+      "response": "\"Bagdadom a neďalekým mestom v piatok otriasla séria",
+      "correct": false
+    },
+    {
+      "idx": 1290,
+      "true_label": 1,
+      "predicted": -1,
+      "response": "\"Reštaurácia Steel City Diner patrí Dr. Conwayovi.\"",
+      "correct": false
+    },
+    {
+      "idx": 951,
+      "true_label": 0,
+      "predicted": 1,
+      "response": "\"Ano alebo nie.\"\n\nVeta 3: \"Je to nezodpoved",
+      "correct": false
+    },
+    {
+      "idx": 1350,
+      "true_label": 1,
+      "predicted": 1,
+      "response": "ano alebo nie.\n\nVeta 1: \"Spojené štáty sa",
+      "correct": true
+    },
+    {
+      "idx": 476,
+      "true_label": 1,
+      "predicted": -1,
+      "response": "\"Hebron sa nachádza v meste Jeruzalem.\"\n\nVeta 3",
+      "correct": false
+    },
+    {
+      "idx": 159,
+      "true_label": 0,
+      "predicted": -1,
+      "response": "\"Hra Katamari Damacy bola vydaná v roku 2004.\"",
+      "correct": false
+    },
+    {
+      "idx": 1585,
+      "true_label": 1,
+      "predicted": 1,
+      "response": "ano alebo nie.\n\nVeta 3: \"Frank bol židov",
+      "correct": true
+    },
+    {
+      "idx": 561,
+      "true_label": 0,
+      "predicted": -1,
+      "response": "\"FARC sú Revolučné ozbrojené sily Kolumbie.\"",
+      "correct": false
+    },
+    {
+      "idx": 1153,
+      "true_label": 0,
+      "predicted": 1,
+      "response": "ano alebo nie.\n\nVeta 1: \"Obranca Zdeněk G",
+      "correct": false
+    },
+    {
+      "idx": 1586,
+      "true_label": 1,
+      "predicted": -1,
+      "response": "\"Najmenej 28 ľudí sa utopilo a bola potvrdená ich smrť,",
+      "correct": false
+    },
+    {
+      "idx": 241,
+      "true_label": 0,
+      "predicted": 1,
+      "response": "\"Ano alebo nie.\"\n\nVeta 3: \"Virtu",
+      "correct": false
+    },
+    {
+      "idx": 1392,
+      "true_label": 0,
+      "predicted": -1,
+      "response": "\"Podľa hovorcu NATO bol pokus o únos nórskeho tankera v Adenskom",
+      "correct": false
+    },
+    {
+      "idx": 1349,
+      "true_label": 0,
+      "predicted": 1,
+      "response": "\"Ano alebo nie?\"\n\nVeta 3: \"Bill Mc",
+      "correct": false
+    },
+    {
+      "idx": 715,
+      "true_label": 1,
+      "predicted": 1,
+      "response": "\"Odpoved je: ano alebo nie.\"\n\nVeta 3:",
+      "correct": true
+    },
+    {
+      "idx": 53,
+      "true_label": 0,
+      "predicted": 1,
+      "response": "\"Ano alebo nie.\"\n\nVeta 3: \"Len pred niekoľkými",
+      "correct": false
+    },
+    {
+      "idx": 15,
+      "true_label": 1,
+      "predicted": 1,
+      "response": "\"Meteorologické oddelenie Indie pôsobí v Indonézii.\"\n\nVeta",
+      "correct": true
+    },
+    {
+      "idx": 1509,
+      "true_label": 1,
+      "predicted": 1,
+      "response": "ano alebo nie.\n\nVeta 1: \"Predstaviteľ Vatikánu označil",
+      "correct": true
+    },
+    {
+      "idx": 899,
+      "true_label": 0,
+      "predicted": -1,
+      "response": "\"Henry Ford, zakladateľ spoločnosti Ford Motor Company, založenej v roku",
+      "correct": false
+    },
+    {
+      "idx": 1209,
+      "true_label": 1,
+      "predicted": 1,
+      "response": "ano alebo nie.\n\nVeta 1: \"(AP) Taliansky",
+      "correct": true
+    },
+    {
+      "idx": 1402,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "\"Reggie Bush je držiteľom Heismanovej trofeje.\"",
+      "correct": true
+    },
+    {
+      "idx": 833,
+      "true_label": 0,
+      "predicted": -1,
+      "response": "\"Keď sa v roku 1861 začala americká občianska vojna, bola opäť pre",
+      "correct": false
+    },
+    {
+      "idx": 1484,
+      "true_label": 0,
+      "predicted": -1,
+      "response": "\"Vo veku 105 rokov zomrel britský spisovateľ Edward Upward. Upward zomrel",
+      "correct": false
+    },
+    {
+      "idx": 1455,
+      "true_label": 0,
+      "predicted": 1,
+      "response": "ano alebo nie.\n\nVeta 1: \"6. septembra futbal",
+      "correct": false
+    },
+    {
+      "idx": 318,
+      "true_label": 0,
+      "predicted": -1,
+      "response": "\"Konkurenčná americká skupina sa podieľa aj na záchranných prácach na vraku",
+      "correct": false
+    },
+    {
+      "idx": 35,
+      "true_label": 0,
+      "predicted": 1,
+      "response": "\"Ano alebo nie?\"\n\nVeta 1: \"Do bohatej športovej",
+      "correct": false
+    },
+    {
+      "idx": 287,
+      "true_label": 1,
+      "predicted": -1,
+      "response": "\"Ruské jednotky sa stiahli z Lotyšska.\"\n\nVeta 3",
+      "correct": false
+    },
+    {
+      "idx": 246,
+      "true_label": 1,
+      "predicted": 1,
+      "response": "ano alebo nie.\n\nVeta 3: \"Domorodé",
+      "correct": true
+    },
+    {
+      "idx": 1067,
+      "true_label": 1,
+      "predicted": 1,
+      "response": "ano alebo nie? Odpoved je: ano alebo nie?\n\nVe",
+      "correct": true
+    },
+    {
+      "idx": 1596,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "\"Pri koordinovanom streleckom a raketovom útoku 12 až 14 ozbrojencov",
+      "correct": true
+    },
+    {
+      "idx": 1190,
+      "true_label": 1,
+      "predicted": 1,
+      "response": "\"Ano alebo nie?\"\n\nVeta 3: \"Pápež si myslí",
+      "correct": true
+    },
+    {
+      "idx": 639,
+      "true_label": 0,
+      "predicted": 1,
+      "response": "ano alebo nie.\n\nVeta 1: \"Zdá sa, že",
+      "correct": false
+    },
+    {
+      "idx": 577,
+      "true_label": 0,
+      "predicted": -1,
+      "response": "\"Alandské ostrovy patria Fínsku a nachádzajú sa medzi Fínskom a Švéd",
+      "correct": false
+    },
+    {
+      "idx": 174,
+      "true_label": 1,
+      "predicted": -1,
+      "response": "\"Owen opustil Real po tom, čo Newcastle predbehol Liverpool a",
+      "correct": false
+    },
+    {
+      "idx": 500,
+      "true_label": 0,
+      "predicted": 1,
+      "response": "\"Ano alebo nie?\"\n\nVeta 1: \"Viac ako 250",
+      "correct": false
+    },
+    {
+      "idx": 1547,
+      "true_label": 0,
+      "predicted": -1,
+      "response": "\"Islamské skupiny chcú obnoviť stredoveké barbarstvo voči ženám.\"",
+      "correct": false
+    },
+    {
+      "idx": 1430,
+      "true_label": 0,
+      "predicted": 1,
+      "response": "\"Nie, nie je republikán.\"\n\nVeta 3: \"",
+      "correct": false
+    },
+    {
+      "idx": 1261,
+      "true_label": 1,
+      "predicted": 1,
+      "response": "\"Áno, ale nie je to pravda.\"\n\nVeta 3:",
+      "correct": true
+    },
+    {
+      "idx": 967,
+      "true_label": 0,
+      "predicted": -1,
+      "response": "\"Každoročná indická púť k rieke Gange, ktorú hinduisti",
+      "correct": false
+    },
+    {
+      "idx": 383,
+      "true_label": 1,
+      "predicted": 1,
+      "response": "ano alebo nie.\n\nVeta 3: \"Zameriava",
+      "correct": true
+    },
+    {
+      "idx": 1370,
+      "true_label": 1,
+      "predicted": 1,
+      "response": "ano alebo nie.\n\nVeta 1: \"Hviezda seriálu Gre",
+      "correct": true
+    },
+    {
+      "idx": 826,
+      "true_label": 1,
+      "predicted": -1,
+      "response": "\"KOOG bola prvou pobočkou Pax v Utahu a vo",
+      "correct": false
+    },
+    {
+      "idx": 519,
+      "true_label": 1,
+      "predicted": -1,
+      "response": "\"Bush bol v rokoch 1989-1994 generálnym partnerom bejzbal",
+      "correct": false
+    },
+    {
+      "idx": 1479,
+      "true_label": 1,
+      "predicted": 1,
+      "response": "ano alebo nie.\n\nVeta 1: \"Anglicko a Austrália",
+      "correct": true
+    },
+    {
+      "idx": 1083,
+      "true_label": 0,
+      "predicted": 1,
+      "response": "ano alebo nie.\n\nVeta 3: \"Ruský súd vo",
+      "correct": false
+    },
+    {
+      "idx": 522,
+      "true_label": 0,
+      "predicted": -1,
+      "response": "\"Macintosh , bežne nazývaný skrátene Macintosh",
+      "correct": false
+    },
+    {
+      "idx": 1338,
+      "true_label": 0,
+      "predicted": 1,
+      "response": "\"Ano alebo nie?\"\n\nVeta 3: \"Tisíce",
+      "correct": false
+    },
+    {
+      "idx": 1407,
+      "true_label": 0,
+      "predicted": -1,
+      "response": "\"Káhira sa nachádza v Egypte.\"\n\nVeta 3",
+      "correct": false
+    },
+    {
+      "idx": 124,
+      "true_label": 0,
+      "predicted": -1,
+      "response": "\"Rozhodne.\"\n\nVeta 3: \"Prezident Bush povedal,",
+      "correct": false
+    },
+    {
+      "idx": 252,
+      "true_label": 1,
+      "predicted": -1,
+      "response": "\"Začiatkom 20. storočia sa agorafóbia alebo strach z verejných priestorov",
+      "correct": false
+    },
+    {
+      "idx": 705,
+      "true_label": 0,
+      "predicted": -1,
+      "response": "\"Jásir Arafat upadol vo francúzskej nemocnici do kómy",
+      "correct": false
+    },
+    {
+      "idx": 484,
+      "true_label": 0,
+      "predicted": -1,
+      "response": "\"CERN má 20 členských štátov.\"\n\nVeta 3:",
+      "correct": false
+    },
+    {
+      "idx": 493,
+      "true_label": 0,
+      "predicted": 1,
+      "response": "\"Áno, ale nie je hlavným mestom Cypru.\"\n\nVeta",
+      "correct": false
+    },
+    {
+      "idx": 1615,
+      "true_label": 0,
+      "predicted": 1,
+      "response": "ano alebo nie.\n\nVeta 1: \"Džibut",
+      "correct": false
+    },
+    {
+      "idx": 1393,
+      "true_label": 0,
+      "predicted": -1,
+      "response": "\"Akciové trhy na celom svete, najmä v Spojenom kráľovstve,",
+      "correct": false
+    },
+    {
+      "idx": 713,
+      "true_label": 1,
+      "predicted": 1,
+      "response": "ano alebo nie.\n\nVeta 3: \"Firmy poskytujúce",
+      "correct": true
+    },
+    {
+      "idx": 431,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "\"Áno, ale v Atlante sa konali aj hry v roku 1996.\"",
+      "correct": true
+    },
+    {
+      "idx": 676,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "\"Ano.\"\n\nVeta 3: \"Prípad proti Michaelovi",
+      "correct": true
+    },
+    {
+      "idx": 1516,
+      "true_label": 1,
+      "predicted": 1,
+      "response": "ano alebo nie.\n\nVeta 3: \"Rada v decembri zamie",
+      "correct": true
+    },
+    {
+      "idx": 1613,
+      "true_label": 1,
+      "predicted": -1,
+      "response": "\"Alvaro Uribe je súčasný prezident Kolumbie.\"\n\nVe",
+      "correct": false
+    },
+    {
+      "idx": 789,
+      "true_label": 1,
+      "predicted": 1,
+      "response": "\"Ano alebo nie.\"\n\nVeta 3: \"Vesmí",
+      "correct": true
+    },
+    {
+      "idx": 1182,
+      "true_label": 0,
+      "predicted": -1,
+      "response": "\"Vlády na celom svete sa ponáhľajú, aby zabránili šíreniu nového",
+      "correct": false
+    },
+    {
+      "idx": 1360,
+      "true_label": 0,
+      "predicted": 1,
+      "response": "\"Ano alebo nie?\"\n\nVeta 3: \"Nadhadz",
+      "correct": false
+    },
+    {
+      "idx": 228,
+      "true_label": 1,
+      "predicted": 1,
+      "response": "ano alebo nie.\n\nVeta 3: \"Podľa organizácie Greenpe",
+      "correct": true
+    },
+    {
+      "idx": 952,
+      "true_label": 1,
+      "predicted": -1,
+      "response": "\"Je to nezodpovedné,\" povedala Susan Linnová, psychologička z Det",
+      "correct": false
+    },
+    {
+      "idx": 1565,
+      "true_label": 1,
+      "predicted": 1,
+      "response": "\"Nie, nie je to pravda. V Číne je v súčasnosti viac ako",
+      "correct": true
+    },
+    {
+      "idx": 1492,
+      "true_label": 1,
+      "predicted": -1,
+      "response": "\"Ryan bol Cathalov otec.\"\n\nVeta 3:",
+      "correct": false
+    },
+    {
+      "idx": 968,
+      "true_label": 0,
+      "predicted": -1,
+      "response": "\"Tento rok tisíce hinduistických svätých mužov, známych aj ako sád",
+      "correct": false
+    },
+    {
+      "idx": 64,
+      "true_label": 0,
+      "predicted": -1,
+      "response": "\"Roboty, ktoré používajú umelé polymérové\" svaly \", sú",
+      "correct": false
+    },
+    {
+      "idx": 575,
+      "true_label": 0,
+      "predicted": 1,
+      "response": "\"Španielsky marxista Javier Solana, ktorý pôsobí ako generálny tajomník",
+      "correct": false
+    },
+    {
+      "idx": 1463,
+      "true_label": 1,
+      "predicted": -1,
+      "response": "\"Polícia Nového Južného Walesu oznámila, že v súvislosti s minuloročný",
+      "correct": false
+    },
+    {
+      "idx": 1650,
+      "true_label": 1,
+      "predicted": 1,
+      "response": "ano alebo nie.\n\nVeta 3: \"Prokurátori",
+      "correct": true
+    },
+    {
+      "idx": 633,
+      "true_label": 0,
+      "predicted": -1,
+      "response": "\"To bolo viac ako 3 % v roku 2003 a predstavovalo najlepší výsledok",
+      "correct": false
+    },
+    {
+      "idx": 1532,
+      "true_label": 0,
+      "predicted": 1,
+      "response": "\"Ano alebo nie?\"\n\nVeta 3: \"V sobotu bolo",
+      "correct": false
+    },
+    {
+      "idx": 1095,
+      "true_label": 0,
+      "predicted": 1,
+      "response": "ano alebo nie.\n\nVeta 3: \"Tropické búrky",
+      "correct": false
+    },
+    {
+      "idx": 1406,
+      "true_label": 1,
+      "predicted": 1,
+      "response": "\"Ano alebo nie?\"\n\nVeta 3: \"Vo štvrtok o",
+      "correct": true
+    },
+    {
+      "idx": 776,
+      "true_label": 1,
+      "predicted": 1,
+      "response": "Ano alebo nie?\n\nVeta 1: \"Vedci uviedli, že",
+      "correct": true
+    },
+    {
+      "idx": 839,
+      "true_label": 0,
+      "predicted": 1,
+      "response": "ano alebo nie.\n\nVeta 3: \"Napísal mnoho kníh",
+      "correct": false
+    },
+    {
+      "idx": 929,
+      "true_label": 1,
+      "predicted": 1,
+      "response": "\"Nie, nie je.\"\n\nVeta 3: \"Britský",
+      "correct": true
+    },
+    {
+      "idx": 1421,
+      "true_label": 1,
+      "predicted": 1,
+      "response": "\"Ano alebo nie.\"\n\nVeta 3: \"Systém ACS",
+      "correct": true
+    },
+    {
+      "idx": 374,
+      "true_label": 0,
+      "predicted": -1,
+      "response": "\"Vojaci sa cvičia pomocou virtuálnej reality (VR) sa stáva účinným",
+      "correct": false
+    },
+    {
+      "idx": 695,
+      "true_label": 0,
+      "predicted": 1,
+      "response": "ano alebo nie.\n\nVeta 3: \"Cate Blanchet",
+      "correct": false
+    },
+    {
+      "idx": 408,
+      "true_label": 0,
+      "predicted": 1,
+      "response": "ano alebo nie.\n\nVeta 1: \"Kenneth Bra",
+      "correct": false
+    },
+    {
+      "idx": 543,
+      "true_label": 1,
+      "predicted": -1,
+      "response": "\"Polovica úmrtí v cestnej premávke je spôsobená alkoholom.\"\n\nVe",
+      "correct": false
+    },
+    {
+      "idx": 406,
+      "true_label": 0,
+      "predicted": -1,
+      "response": "\"Prvý splachovací záchod bol vynájdený v 16. storočí.\"",
+      "correct": false
+    },
+    {
+      "idx": 606,
+      "true_label": 1,
+      "predicted": 0,
+      "response": "\"Áno.\"\n\nVeta 3: \"Druhý nasadený Roddi",
+      "correct": false
+    },
+    {
+      "idx": 494,
+      "true_label": 0,
+      "predicted": -1,
+      "response": "\"Henry je síce držiteľom svetového rekordu a zlatej olympijskej medaily",
+      "correct": false
+    },
+    {
+      "idx": 1185,
+      "true_label": 1,
+      "predicted": -1,
+      "response": "\"Severokórejský parlament opätovne zvolil Kim Čong-ila za",
+      "correct": false
+    },
+    {
+      "idx": 836,
+      "true_label": 0,
+      "predicted": -1,
+      "response": "\"Robinsonov štýl záhrady je dnes možné vidieť na panstve Gra",
+      "correct": false
+    }
+  ]
+}

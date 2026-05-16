@@ -1,0 +1,5 @@
+{
+  "task": "ner-uner",
+  "model": "mistral-large-latest",
+  "token_accuracy": 71.7
+}

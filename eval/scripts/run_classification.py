@@ -22,12 +22,12 @@ import random
 import sys
 from dataclasses import dataclass, field
 from typing import List, Optional
-
+import shutil
 import datasets
 import evaluate
 import numpy as np
 from datasets import Value, load_dataset
-
+ 
 import transformers
 from transformers import (
     AutoConfig,
@@ -42,7 +42,7 @@ from transformers import (
     set_seed,
 )
 from transformers.trainer_utils import get_last_checkpoint
-from transformers.utils import check_min_version, send_example_telemetry
+from transformers.utils import check_min_version
 from transformers.utils.versions import require_version
 
 
@@ -288,7 +288,7 @@ def main():
 
     # Sending telemetry. Tracking the example usage helps us better allocate resources to maintain them. The
     # information sent is the one passed as arguments along with your Python/PyTorch versions.
-    send_example_telemetry("run_classification", model_args, data_args)
+    #send_example_telemetry("run_classification", model_args, data_args)
 
     # Setup logging
     logging.basicConfig(
@@ -317,18 +317,9 @@ def main():
 
     # Detecting last checkpoint.
     last_checkpoint = None
-    if os.path.isdir(training_args.output_dir) and training_args.do_train and not training_args.overwrite_output_dir:
-        last_checkpoint = get_last_checkpoint(training_args.output_dir)
-        if last_checkpoint is None and len(os.listdir(training_args.output_dir)) > 0:
-            raise ValueError(
-                f"Output directory ({training_args.output_dir}) already exists and is not empty. "
-                "Use --overwrite_output_dir to overcome."
-            )
-        elif last_checkpoint is not None and training_args.resume_from_checkpoint is None:
-            logger.info(
-                f"Checkpoint detected, resuming training at {last_checkpoint}. To avoid this behavior, change "
-                "the `--output_dir` or add `--overwrite_output_dir` to train from scratch."
-            )
+    if os.path.isdir(training_args.output_dir) and training_args.do_train:
+        shutil.rmtree(training_args.output_dir)
+     
 
     # Set seed before initializing model.
     set_seed(training_args.seed)

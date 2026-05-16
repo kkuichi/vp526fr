@@ -1,0 +1,1661 @@
+index	prediction
+0	entailment
+1	not entailment
+2	not entailment
+3	not entailment
+4	entailment
+5	entailment
+6	entailment
+7	not entailment
+8	entailment
+9	not entailment
+10	not entailment
+11	not entailment
+12	not entailment
+13	not entailment
+14	not entailment
+15	not entailment
+16	not entailment
+17	not entailment
+18	not entailment
+19	not entailment
+20	entailment
+21	not entailment
+22	not entailment
+23	not entailment
+24	entailment
+25	not entailment
+26	not entailment
+27	not entailment
+28	not entailment
+29	not entailment
+30	entailment
+31	not entailment
+32	not entailment
+33	entailment
+34	entailment
+35	entailment
+36	entailment
+37	not entailment
+38	entailment
+39	not entailment
+40	not entailment
+41	not entailment
+42	not entailment
+43	not entailment
+44	not entailment
+45	not entailment
+46	not entailment
+47	entailment
+48	not entailment
+49	not entailment
+50	not entailment
+51	not entailment
+52	entailment
+53	not entailment
+54	not entailment
+55	not entailment
+56	not entailment
+57	not entailment
+58	not entailment
+59	entailment
+60	not entailment
+61	not entailment
+62	not entailment
+63	not entailment
+64	not entailment
+65	entailment
+66	not entailment
+67	entailment
+68	not entailment
+69	not entailment
+70	not entailment
+71	not entailment
+72	not entailment
+73	not entailment
+74	not entailment
+75	not entailment
+76	entailment
+77	entailment
+78	not entailment
+79	not entailment
+80	not entailment
+81	not entailment
+82	not entailment
+83	not entailment
+84	not entailment
+85	not entailment
+86	not entailment
+87	not entailment
+88	not entailment
+89	not entailment
+90	not entailment
+91	entailment
+92	not entailment
+93	not entailment
+94	not entailment
+95	not entailment
+96	not entailment
+97	not entailment
+98	not entailment
+99	entailment
+100	not entailment
+101	entailment
+102	not entailment
+103	entailment
+104	not entailment
+105	entailment
+106	not entailment
+107	entailment
+108	not entailment
+109	not entailment
+110	not entailment
+111	not entailment
+112	entailment
+113	not entailment
+114	not entailment
+115	not entailment
+116	not entailment
+117	entailment
+118	entailment
+119	not entailment
+120	not entailment
+121	not entailment
+122	entailment
+123	not entailment
+124	not entailment
+125	not entailment
+126	not entailment
+127	not entailment
+128	not entailment
+129	not entailment
+130	entailment
+131	not entailment
+132	not entailment
+133	not entailment
+134	not entailment
+135	entailment
+136	not entailment
+137	not entailment
+138	not entailment
+139	entailment
+140	not entailment
+141	entailment
+142	not entailment
+143	not entailment
+144	not entailment
+145	not entailment
+146	not entailment
+147	not entailment
+148	not entailment
+149	not entailment
+150	not entailment
+151	not entailment
+152	not entailment
+153	not entailment
+154	not entailment
+155	not entailment
+156	entailment
+157	not entailment
+158	not entailment
+159	not entailment
+160	not entailment
+161	not entailment
+162	entailment
+163	entailment
+164	not entailment
+165	not entailment
+166	not entailment
+167	not entailment
+168	not entailment
+169	not entailment
+170	not entailment
+171	not entailment
+172	not entailment
+173	entailment
+174	entailment
+175	entailment
+176	not entailment
+177	not entailment
+178	not entailment
+179	not entailment
+180	not entailment
+181	not entailment
+182	not entailment
+183	not entailment
+184	not entailment
+185	not entailment
+186	not entailment
+187	entailment
+188	not entailment
+189	entailment
+190	not entailment
+191	not entailment
+192	not entailment
+193	not entailment
+194	not entailment
+195	not entailment
+196	not entailment
+197	not entailment
+198	not entailment
+199	entailment
+200	not entailment
+201	not entailment
+202	not entailment
+203	entailment
+204	not entailment
+205	entailment
+206	entailment
+207	entailment
+208	entailment
+209	entailment
+210	entailment
+211	entailment
+212	entailment
+213	entailment
+214	not entailment
+215	entailment
+216	entailment
+217	entailment
+218	entailment
+219	entailment
+220	not entailment
+221	entailment
+222	entailment
+223	entailment
+224	not entailment
+225	not entailment
+226	not entailment
+227	entailment
+228	entailment
+229	entailment
+230	not entailment
+231	entailment
+232	entailment
+233	entailment
+234	not entailment
+235	entailment
+236	entailment
+237	entailment
+238	not entailment
+239	not entailment
+240	not entailment
+241	not entailment
+242	not entailment
+243	not entailment
+244	entailment
+245	not entailment
+246	entailment
+247	not entailment
+248	entailment
+249	entailment
+250	entailment
+251	entailment
+252	entailment
+253	not entailment
+254	entailment
+255	not entailment
+256	entailment
+257	entailment
+258	entailment
+259	entailment
+260	entailment
+261	not entailment
+262	not entailment
+263	not entailment
+264	entailment
+265	entailment
+266	entailment
+267	not entailment
+268	entailment
+269	entailment
+270	entailment
+271	entailment
+272	not entailment
+273	entailment
+274	entailment
+275	entailment
+276	not entailment
+277	entailment
+278	entailment
+279	entailment
+280	not entailment
+281	not entailment
+282	entailment
+283	entailment
+284	entailment
+285	not entailment
+286	not entailment
+287	entailment
+288	not entailment
+289	not entailment
+290	entailment
+291	entailment
+292	not entailment
+293	not entailment
+294	not entailment
+295	entailment
+296	entailment
+297	not entailment
+298	not entailment
+299	entailment
+300	entailment
+301	entailment
+302	entailment
+303	entailment
+304	entailment
+305	entailment
+306	entailment
+307	not entailment
+308	entailment
+309	entailment
+310	not entailment
+311	entailment
+312	entailment
+313	not entailment
+314	entailment
+315	not entailment
+316	entailment
+317	not entailment
+318	entailment
+319	entailment
+320	entailment
+321	not entailment
+322	not entailment
+323	entailment
+324	entailment
+325	entailment
+326	not entailment
+327	entailment
+328	not entailment
+329	entailment
+330	entailment
+331	entailment
+332	entailment
+333	entailment
+334	entailment
+335	entailment
+336	entailment
+337	not entailment
+338	entailment
+339	entailment
+340	not entailment
+341	entailment
+342	entailment
+343	not entailment
+344	entailment
+345	not entailment
+346	entailment
+347	entailment
+348	entailment
+349	not entailment
+350	not entailment
+351	entailment
+352	entailment
+353	not entailment
+354	entailment
+355	not entailment
+356	entailment
+357	entailment
+358	entailment
+359	entailment
+360	entailment
+361	entailment
+362	entailment
+363	entailment
+364	entailment
+365	not entailment
+366	entailment
+367	not entailment
+368	entailment
+369	entailment
+370	entailment
+371	not entailment
+372	not entailment
+373	entailment
+374	not entailment
+375	entailment
+376	not entailment
+377	entailment
+378	not entailment
+379	not entailment
+380	entailment
+381	entailment
+382	entailment
+383	entailment
+384	not entailment
+385	entailment
+386	entailment
+387	not entailment
+388	entailment
+389	entailment
+390	not entailment
+391	entailment
+392	not entailment
+393	entailment
+394	not entailment
+395	not entailment
+396	not entailment
+397	not entailment
+398	entailment
+399	entailment
+400	not entailment
+401	entailment
+402	not entailment
+403	entailment
+404	not entailment
+405	not entailment
+406	not entailment
+407	not entailment
+408	not entailment
+409	not entailment
+410	not entailment
+411	not entailment
+412	not entailment
+413	not entailment
+414	not entailment
+415	not entailment
+416	entailment
+417	not entailment
+418	not entailment
+419	not entailment
+420	not entailment
+421	entailment
+422	not entailment
+423	not entailment
+424	not entailment
+425	not entailment
+426	not entailment
+427	not entailment
+428	entailment
+429	not entailment
+430	not entailment
+431	not entailment
+432	not entailment
+433	not entailment
+434	not entailment
+435	entailment
+436	entailment
+437	not entailment
+438	entailment
+439	not entailment
+440	not entailment
+441	not entailment
+442	not entailment
+443	not entailment
+444	entailment
+445	not entailment
+446	not entailment
+447	not entailment
+448	not entailment
+449	not entailment
+450	not entailment
+451	not entailment
+452	not entailment
+453	not entailment
+454	not entailment
+455	entailment
+456	not entailment
+457	not entailment
+458	not entailment
+459	not entailment
+460	not entailment
+461	not entailment
+462	not entailment
+463	not entailment
+464	not entailment
+465	not entailment
+466	not entailment
+467	not entailment
+468	not entailment
+469	not entailment
+470	not entailment
+471	not entailment
+472	not entailment
+473	entailment
+474	entailment
+475	not entailment
+476	not entailment
+477	not entailment
+478	not entailment
+479	not entailment
+480	not entailment
+481	not entailment
+482	not entailment
+483	not entailment
+484	not entailment
+485	entailment
+486	entailment
+487	not entailment
+488	not entailment
+489	not entailment
+490	not entailment
+491	not entailment
+492	not entailment
+493	not entailment
+494	not entailment
+495	entailment
+496	not entailment
+497	not entailment
+498	not entailment
+499	entailment
+500	not entailment
+501	not entailment
+502	not entailment
+503	entailment
+504	entailment
+505	not entailment
+506	not entailment
+507	not entailment
+508	entailment
+509	entailment
+510	not entailment
+511	not entailment
+512	not entailment
+513	not entailment
+514	entailment
+515	entailment
+516	entailment
+517	not entailment
+518	not entailment
+519	not entailment
+520	not entailment
+521	entailment
+522	not entailment
+523	not entailment
+524	not entailment
+525	not entailment
+526	not entailment
+527	not entailment
+528	not entailment
+529	not entailment
+530	not entailment
+531	entailment
+532	not entailment
+533	not entailment
+534	not entailment
+535	entailment
+536	not entailment
+537	not entailment
+538	not entailment
+539	not entailment
+540	not entailment
+541	not entailment
+542	not entailment
+543	entailment
+544	not entailment
+545	not entailment
+546	not entailment
+547	not entailment
+548	not entailment
+549	entailment
+550	not entailment
+551	not entailment
+552	not entailment
+553	entailment
+554	not entailment
+555	not entailment
+556	not entailment
+557	not entailment
+558	not entailment
+559	not entailment
+560	entailment
+561	not entailment
+562	not entailment
+563	not entailment
+564	not entailment
+565	not entailment
+566	not entailment
+567	not entailment
+568	not entailment
+569	entailment
+570	not entailment
+571	entailment
+572	not entailment
+573	not entailment
+574	not entailment
+575	not entailment
+576	entailment
+577	not entailment
+578	not entailment
+579	not entailment
+580	not entailment
+581	not entailment
+582	not entailment
+583	not entailment
+584	not entailment
+585	not entailment
+586	not entailment
+587	not entailment
+588	not entailment
+589	not entailment
+590	entailment
+591	entailment
+592	not entailment
+593	not entailment
+594	entailment
+595	not entailment
+596	not entailment
+597	not entailment
+598	not entailment
+599	not entailment
+600	entailment
+601	not entailment
+602	entailment
+603	not entailment
+604	not entailment
+605	entailment
+606	entailment
+607	not entailment
+608	not entailment
+609	not entailment
+610	entailment
+611	not entailment
+612	not entailment
+613	entailment
+614	not entailment
+615	entailment
+616	not entailment
+617	not entailment
+618	not entailment
+619	entailment
+620	entailment
+621	not entailment
+622	not entailment
+623	entailment
+624	entailment
+625	entailment
+626	entailment
+627	not entailment
+628	not entailment
+629	entailment
+630	not entailment
+631	entailment
+632	not entailment
+633	not entailment
+634	entailment
+635	entailment
+636	not entailment
+637	not entailment
+638	not entailment
+639	entailment
+640	entailment
+641	not entailment
+642	entailment
+643	not entailment
+644	not entailment
+645	entailment
+646	not entailment
+647	not entailment
+648	not entailment
+649	entailment
+650	not entailment
+651	not entailment
+652	not entailment
+653	not entailment
+654	not entailment
+655	entailment
+656	entailment
+657	not entailment
+658	not entailment
+659	not entailment
+660	not entailment
+661	entailment
+662	entailment
+663	not entailment
+664	not entailment
+665	not entailment
+666	entailment
+667	entailment
+668	not entailment
+669	entailment
+670	entailment
+671	entailment
+672	not entailment
+673	not entailment
+674	entailment
+675	not entailment
+676	not entailment
+677	entailment
+678	not entailment
+679	entailment
+680	not entailment
+681	entailment
+682	entailment
+683	not entailment
+684	not entailment
+685	entailment
+686	not entailment
+687	not entailment
+688	not entailment
+689	not entailment
+690	not entailment
+691	not entailment
+692	entailment
+693	entailment
+694	not entailment
+695	not entailment
+696	not entailment
+697	not entailment
+698	entailment
+699	not entailment
+700	entailment
+701	entailment
+702	entailment
+703	not entailment
+704	entailment
+705	not entailment
+706	entailment
+707	entailment
+708	not entailment
+709	not entailment
+710	entailment
+711	entailment
+712	not entailment
+713	not entailment
+714	entailment
+715	entailment
+716	entailment
+717	not entailment
+718	not entailment
+719	not entailment
+720	not entailment
+721	not entailment
+722	not entailment
+723	not entailment
+724	not entailment
+725	not entailment
+726	not entailment
+727	not entailment
+728	not entailment
+729	entailment
+730	entailment
+731	not entailment
+732	not entailment
+733	not entailment
+734	not entailment
+735	not entailment
+736	not entailment
+737	entailment
+738	not entailment
+739	entailment
+740	not entailment
+741	not entailment
+742	not entailment
+743	not entailment
+744	not entailment
+745	entailment
+746	not entailment
+747	not entailment
+748	not entailment
+749	not entailment
+750	entailment
+751	not entailment
+752	entailment
+753	not entailment
+754	entailment
+755	not entailment
+756	not entailment
+757	not entailment
+758	not entailment
+759	not entailment
+760	not entailment
+761	entailment
+762	entailment
+763	not entailment
+764	entailment
+765	not entailment
+766	not entailment
+767	not entailment
+768	entailment
+769	entailment
+770	entailment
+771	not entailment
+772	not entailment
+773	not entailment
+774	not entailment
+775	not entailment
+776	entailment
+777	entailment
+778	entailment
+779	not entailment
+780	entailment
+781	not entailment
+782	not entailment
+783	not entailment
+784	not entailment
+785	not entailment
+786	not entailment
+787	entailment
+788	entailment
+789	entailment
+790	not entailment
+791	entailment
+792	not entailment
+793	not entailment
+794	not entailment
+795	not entailment
+796	entailment
+797	not entailment
+798	not entailment
+799	entailment
+800	not entailment
+801	entailment
+802	not entailment
+803	not entailment
+804	not entailment
+805	not entailment
+806	not entailment
+807	not entailment
+808	entailment
+809	not entailment
+810	not entailment
+811	not entailment
+812	not entailment
+813	not entailment
+814	not entailment
+815	not entailment
+816	not entailment
+817	not entailment
+818	not entailment
+819	entailment
+820	not entailment
+821	not entailment
+822	not entailment
+823	not entailment
+824	not entailment
+825	not entailment
+826	not entailment
+827	not entailment
+828	not entailment
+829	not entailment
+830	entailment
+831	not entailment
+832	not entailment
+833	not entailment
+834	entailment
+835	not entailment
+836	not entailment
+837	not entailment
+838	not entailment
+839	not entailment
+840	not entailment
+841	not entailment
+842	not entailment
+843	not entailment
+844	entailment
+845	not entailment
+846	not entailment
+847	entailment
+848	not entailment
+849	not entailment
+850	not entailment
+851	entailment
+852	entailment
+853	not entailment
+854	entailment
+855	not entailment
+856	entailment
+857	not entailment
+858	not entailment
+859	not entailment
+860	not entailment
+861	not entailment
+862	not entailment
+863	not entailment
+864	entailment
+865	not entailment
+866	not entailment
+867	not entailment
+868	not entailment
+869	not entailment
+870	not entailment
+871	not entailment
+872	entailment
+873	not entailment
+874	not entailment
+875	not entailment
+876	not entailment
+877	not entailment
+878	not entailment
+879	not entailment
+880	not entailment
+881	not entailment
+882	not entailment
+883	not entailment
+884	not entailment
+885	not entailment
+886	not entailment
+887	entailment
+888	entailment
+889	not entailment
+890	not entailment
+891	not entailment
+892	not entailment
+893	not entailment
+894	not entailment
+895	not entailment
+896	entailment
+897	not entailment
+898	entailment
+899	not entailment
+900	not entailment
+901	not entailment
+902	not entailment
+903	not entailment
+904	not entailment
+905	not entailment
+906	not entailment
+907	entailment
+908	not entailment
+909	not entailment
+910	not entailment
+911	entailment
+912	not entailment
+913	not entailment
+914	not entailment
+915	entailment
+916	not entailment
+917	not entailment
+918	not entailment
+919	not entailment
+920	not entailment
+921	not entailment
+922	not entailment
+923	entailment
+924	not entailment
+925	not entailment
+926	not entailment
+927	not entailment
+928	not entailment
+929	not entailment
+930	not entailment
+931	not entailment
+932	not entailment
+933	not entailment
+934	not entailment
+935	not entailment
+936	not entailment
+937	entailment
+938	not entailment
+939	not entailment
+940	not entailment
+941	not entailment
+942	not entailment
+943	not entailment
+944	not entailment
+945	entailment
+946	not entailment
+947	not entailment
+948	not entailment
+949	not entailment
+950	entailment
+951	entailment
+952	not entailment
+953	not entailment
+954	not entailment
+955	not entailment
+956	not entailment
+957	not entailment
+958	not entailment
+959	not entailment
+960	not entailment
+961	not entailment
+962	not entailment
+963	not entailment
+964	not entailment
+965	not entailment
+966	not entailment
+967	not entailment
+968	not entailment
+969	not entailment
+970	not entailment
+971	not entailment
+972	not entailment
+973	not entailment
+974	not entailment
+975	not entailment
+976	entailment
+977	not entailment
+978	not entailment
+979	not entailment
+980	not entailment
+981	entailment
+982	not entailment
+983	entailment
+984	not entailment
+985	entailment
+986	not entailment
+987	not entailment
+988	entailment
+989	entailment
+990	entailment
+991	not entailment
+992	not entailment
+993	entailment
+994	entailment
+995	entailment
+996	not entailment
+997	entailment
+998	not entailment
+999	not entailment
+1000	entailment
+1001	entailment
+1002	entailment
+1003	entailment
+1004	not entailment
+1005	not entailment
+1006	entailment
+1007	entailment
+1008	not entailment
+1009	entailment
+1010	entailment
+1011	entailment
+1012	not entailment
+1013	entailment
+1014	entailment
+1015	entailment
+1016	entailment
+1017	not entailment
+1018	not entailment
+1019	entailment
+1020	not entailment
+1021	entailment
+1022	entailment
+1023	entailment
+1024	entailment
+1025	not entailment
+1026	entailment
+1027	entailment
+1028	entailment
+1029	not entailment
+1030	not entailment
+1031	entailment
+1032	entailment
+1033	entailment
+1034	entailment
+1035	not entailment
+1036	entailment
+1037	entailment
+1038	entailment
+1039	entailment
+1040	entailment
+1041	entailment
+1042	not entailment
+1043	entailment
+1044	entailment
+1045	entailment
+1046	entailment
+1047	not entailment
+1048	entailment
+1049	entailment
+1050	not entailment
+1051	not entailment
+1052	not entailment
+1053	entailment
+1054	entailment
+1055	entailment
+1056	entailment
+1057	entailment
+1058	entailment
+1059	entailment
+1060	not entailment
+1061	not entailment
+1062	not entailment
+1063	not entailment
+1064	not entailment
+1065	entailment
+1066	entailment
+1067	entailment
+1068	entailment
+1069	entailment
+1070	entailment
+1071	entailment
+1072	entailment
+1073	entailment
+1074	not entailment
+1075	entailment
+1076	entailment
+1077	not entailment
+1078	entailment
+1079	not entailment
+1080	not entailment
+1081	entailment
+1082	not entailment
+1083	not entailment
+1084	not entailment
+1085	entailment
+1086	entailment
+1087	entailment
+1088	not entailment
+1089	entailment
+1090	entailment
+1091	entailment
+1092	not entailment
+1093	entailment
+1094	not entailment
+1095	not entailment
+1096	entailment
+1097	entailment
+1098	entailment
+1099	entailment
+1100	entailment
+1101	entailment
+1102	entailment
+1103	entailment
+1104	entailment
+1105	not entailment
+1106	entailment
+1107	entailment
+1108	entailment
+1109	entailment
+1110	not entailment
+1111	entailment
+1112	entailment
+1113	entailment
+1114	entailment
+1115	entailment
+1116	entailment
+1117	entailment
+1118	entailment
+1119	entailment
+1120	entailment
+1121	entailment
+1122	entailment
+1123	entailment
+1124	not entailment
+1125	entailment
+1126	entailment
+1127	entailment
+1128	entailment
+1129	entailment
+1130	entailment
+1131	entailment
+1132	entailment
+1133	entailment
+1134	entailment
+1135	not entailment
+1136	not entailment
+1137	entailment
+1138	not entailment
+1139	not entailment
+1140	entailment
+1141	entailment
+1142	entailment
+1143	entailment
+1144	not entailment
+1145	entailment
+1146	not entailment
+1147	entailment
+1148	entailment
+1149	entailment
+1150	entailment
+1151	entailment
+1152	entailment
+1153	entailment
+1154	entailment
+1155	entailment
+1156	entailment
+1157	entailment
+1158	entailment
+1159	entailment
+1160	entailment
+1161	not entailment
+1162	entailment
+1163	not entailment
+1164	not entailment
+1165	entailment
+1166	entailment
+1167	not entailment
+1168	entailment
+1169	entailment
+1170	entailment
+1171	entailment
+1172	not entailment
+1173	entailment
+1174	entailment
+1175	not entailment
+1176	entailment
+1177	not entailment
+1178	entailment
+1179	entailment
+1180	entailment
+1181	entailment
+1182	not entailment
+1183	entailment
+1184	entailment
+1185	entailment
+1186	entailment
+1187	entailment
+1188	not entailment
+1189	entailment
+1190	entailment
+1191	entailment
+1192	entailment
+1193	entailment
+1194	entailment
+1195	not entailment
+1196	entailment
+1197	entailment
+1198	not entailment
+1199	not entailment
+1200	entailment
+1201	entailment
+1202	entailment
+1203	entailment
+1204	not entailment
+1205	entailment
+1206	not entailment
+1207	entailment
+1208	entailment
+1209	entailment
+1210	not entailment
+1211	entailment
+1212	entailment
+1213	entailment
+1214	not entailment
+1215	entailment
+1216	entailment
+1217	entailment
+1218	not entailment
+1219	entailment
+1220	entailment
+1221	entailment
+1222	entailment
+1223	entailment
+1224	entailment
+1225	entailment
+1226	not entailment
+1227	entailment
+1228	not entailment
+1229	not entailment
+1230	entailment
+1231	not entailment
+1232	entailment
+1233	entailment
+1234	entailment
+1235	entailment
+1236	not entailment
+1237	entailment
+1238	not entailment
+1239	entailment
+1240	entailment
+1241	entailment
+1242	entailment
+1243	entailment
+1244	entailment
+1245	entailment
+1246	entailment
+1247	entailment
+1248	entailment
+1249	not entailment
+1250	entailment
+1251	not entailment
+1252	entailment
+1253	entailment
+1254	entailment
+1255	entailment
+1256	entailment
+1257	entailment
+1258	entailment
+1259	not entailment
+1260	entailment
+1261	not entailment
+1262	entailment
+1263	not entailment
+1264	entailment
+1265	not entailment
+1266	not entailment
+1267	entailment
+1268	entailment
+1269	entailment
+1270	entailment
+1271	entailment
+1272	not entailment
+1273	entailment
+1274	not entailment
+1275	not entailment
+1276	not entailment
+1277	not entailment
+1278	entailment
+1279	entailment
+1280	entailment
+1281	entailment
+1282	not entailment
+1283	entailment
+1284	entailment
+1285	entailment
+1286	not entailment
+1287	entailment
+1288	entailment
+1289	not entailment
+1290	entailment
+1291	not entailment
+1292	not entailment
+1293	entailment
+1294	not entailment
+1295	not entailment
+1296	not entailment
+1297	entailment
+1298	not entailment
+1299	not entailment
+1300	entailment
+1301	not entailment
+1302	not entailment
+1303	entailment
+1304	not entailment
+1305	entailment
+1306	entailment
+1307	not entailment
+1308	not entailment
+1309	entailment
+1310	entailment
+1311	entailment
+1312	not entailment
+1313	entailment
+1314	entailment
+1315	entailment
+1316	entailment
+1317	entailment
+1318	not entailment
+1319	entailment
+1320	not entailment
+1321	not entailment
+1322	entailment
+1323	not entailment
+1324	not entailment
+1325	entailment
+1326	not entailment
+1327	entailment
+1328	entailment
+1329	entailment
+1330	entailment
+1331	entailment
+1332	entailment
+1333	not entailment
+1334	entailment
+1335	entailment
+1336	entailment
+1337	entailment
+1338	entailment
+1339	entailment
+1340	entailment
+1341	entailment
+1342	entailment
+1343	entailment
+1344	not entailment
+1345	entailment
+1346	entailment
+1347	entailment
+1348	not entailment
+1349	not entailment
+1350	entailment
+1351	entailment
+1352	not entailment
+1353	not entailment
+1354	entailment
+1355	entailment
+1356	entailment
+1357	not entailment
+1358	not entailment
+1359	entailment
+1360	entailment
+1361	entailment
+1362	entailment
+1363	entailment
+1364	entailment
+1365	entailment
+1366	entailment
+1367	entailment
+1368	entailment
+1369	entailment
+1370	not entailment
+1371	entailment
+1372	entailment
+1373	not entailment
+1374	entailment
+1375	not entailment
+1376	not entailment
+1377	entailment
+1378	not entailment
+1379	not entailment
+1380	entailment
+1381	not entailment
+1382	entailment
+1383	entailment
+1384	entailment
+1385	not entailment
+1386	entailment
+1387	not entailment
+1388	not entailment
+1389	not entailment
+1390	entailment
+1391	entailment
+1392	not entailment
+1393	entailment
+1394	not entailment
+1395	entailment
+1396	not entailment
+1397	not entailment
+1398	entailment
+1399	entailment
+1400	entailment
+1401	entailment
+1402	not entailment
+1403	not entailment
+1404	not entailment
+1405	not entailment
+1406	entailment
+1407	entailment
+1408	entailment
+1409	entailment
+1410	entailment
+1411	entailment
+1412	entailment
+1413	entailment
+1414	entailment
+1415	entailment
+1416	entailment
+1417	not entailment
+1418	entailment
+1419	entailment
+1420	entailment
+1421	entailment
+1422	entailment
+1423	entailment
+1424	entailment
+1425	not entailment
+1426	entailment
+1427	entailment
+1428	entailment
+1429	not entailment
+1430	entailment
+1431	entailment
+1432	not entailment
+1433	entailment
+1434	not entailment
+1435	not entailment
+1436	not entailment
+1437	not entailment
+1438	entailment
+1439	entailment
+1440	not entailment
+1441	entailment
+1442	not entailment
+1443	entailment
+1444	entailment
+1445	entailment
+1446	entailment
+1447	entailment
+1448	not entailment
+1449	not entailment
+1450	entailment
+1451	entailment
+1452	entailment
+1453	not entailment
+1454	entailment
+1455	not entailment
+1456	not entailment
+1457	not entailment
+1458	not entailment
+1459	not entailment
+1460	entailment
+1461	entailment
+1462	not entailment
+1463	not entailment
+1464	entailment
+1465	entailment
+1466	not entailment
+1467	not entailment
+1468	entailment
+1469	entailment
+1470	entailment
+1471	not entailment
+1472	not entailment
+1473	not entailment
+1474	not entailment
+1475	entailment
+1476	entailment
+1477	entailment
+1478	entailment
+1479	entailment
+1480	entailment
+1481	entailment
+1482	entailment
+1483	not entailment
+1484	not entailment
+1485	not entailment
+1486	not entailment
+1487	entailment
+1488	entailment
+1489	entailment
+1490	not entailment
+1491	entailment
+1492	entailment
+1493	entailment
+1494	entailment
+1495	entailment
+1496	entailment
+1497	entailment
+1498	entailment
+1499	entailment
+1500	entailment
+1501	entailment
+1502	entailment
+1503	entailment
+1504	entailment
+1505	not entailment
+1506	not entailment
+1507	entailment
+1508	entailment
+1509	entailment
+1510	entailment
+1511	entailment
+1512	not entailment
+1513	entailment
+1514	entailment
+1515	not entailment
+1516	not entailment
+1517	entailment
+1518	entailment
+1519	entailment
+1520	not entailment
+1521	entailment
+1522	not entailment
+1523	entailment
+1524	entailment
+1525	entailment
+1526	not entailment
+1527	entailment
+1528	entailment
+1529	entailment
+1530	entailment
+1531	entailment
+1532	not entailment
+1533	entailment
+1534	not entailment
+1535	entailment
+1536	not entailment
+1537	not entailment
+1538	entailment
+1539	not entailment
+1540	entailment
+1541	entailment
+1542	entailment
+1543	entailment
+1544	entailment
+1545	entailment
+1546	entailment
+1547	entailment
+1548	entailment
+1549	entailment
+1550	not entailment
+1551	not entailment
+1552	entailment
+1553	entailment
+1554	entailment
+1555	entailment
+1556	entailment
+1557	not entailment
+1558	entailment
+1559	not entailment
+1560	entailment
+1561	not entailment
+1562	entailment
+1563	entailment
+1564	entailment
+1565	not entailment
+1566	entailment
+1567	entailment
+1568	not entailment
+1569	not entailment
+1570	entailment
+1571	entailment
+1572	entailment
+1573	entailment
+1574	entailment
+1575	entailment
+1576	entailment
+1577	entailment
+1578	not entailment
+1579	entailment
+1580	entailment
+1581	entailment
+1582	not entailment
+1583	entailment
+1584	entailment
+1585	entailment
+1586	entailment
+1587	entailment
+1588	not entailment
+1589	entailment
+1590	entailment
+1591	not entailment
+1592	entailment
+1593	not entailment
+1594	not entailment
+1595	not entailment
+1596	entailment
+1597	entailment
+1598	entailment
+1599	not entailment
+1600	entailment
+1601	entailment
+1602	entailment
+1603	not entailment
+1604	not entailment
+1605	not entailment
+1606	entailment
+1607	entailment
+1608	entailment
+1609	entailment
+1610	entailment
+1611	not entailment
+1612	entailment
+1613	entailment
+1614	not entailment
+1615	not entailment
+1616	entailment
+1617	not entailment
+1618	entailment
+1619	entailment
+1620	entailment
+1621	entailment
+1622	not entailment
+1623	entailment
+1624	entailment
+1625	entailment
+1626	entailment
+1627	not entailment
+1628	entailment
+1629	not entailment
+1630	entailment
+1631	not entailment
+1632	entailment
+1633	not entailment
+1634	entailment
+1635	entailment
+1636	not entailment
+1637	not entailment
+1638	not entailment
+1639	entailment
+1640	not entailment
+1641	entailment
+1642	entailment
+1643	not entailment
+1644	not entailment
+1645	entailment
+1646	entailment
+1647	entailment
+1648	not entailment
+1649	entailment
+1650	entailment
+1651	entailment
+1652	entailment
+1653	not entailment
+1654	not entailment
+1655	entailment
+1656	entailment
+1657	not entailment
+1658	entailment
+1659	entailment

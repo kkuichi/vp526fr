@@ -1,0 +1,711 @@
+{
+  "task": "hate-speech",
+  "model": "Milos/slovak-gpt-j-1.4B",
+  "metric": "accuracy",
+  "value": 56.00000000000001,
+  "correct": 56,
+  "total": 100,
+  "time_minutes": 5.0,
+  "predictions": [
+    {
+      "idx": 715,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "\"Ano alebo nie?\"\n\nText: \"user38168 nev",
+      "correct": true
+    },
+    {
+      "idx": 1216,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "ano alebo nie.\n\nText: \"moderátor zastupuje ktorú koali",
+      "correct": true
+    },
+    {
+      "idx": 697,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "\"asi som divná ale ja milujem tie zrniečka\"",
+      "correct": true
+    },
+    {
+      "idx": 193,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "ano alebo nie? Odpoved je: ano alebo nie.\n\nText",
+      "correct": true
+    },
+    {
+      "idx": 260,
+      "true_label": 1,
+      "predicted": 0,
+      "response": "ano alebo nie? Odpoved je: ano alebo nie.\n\nText",
+      "correct": false
+    },
+    {
+      "idx": 957,
+      "true_label": 1,
+      "predicted": -1,
+      "response": "\"je to smiešne s tým hlinom, ale cela saska je len",
+      "correct": false
+    },
+    {
+      "idx": 1315,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "ano alebo nie? Odpoved je: ano alebo nie.\n\nText",
+      "correct": true
+    },
+    {
+      "idx": 374,
+      "true_label": 0,
+      "predicted": -1,
+      "response": "\"píšte čo chcete mislite si čo chcete aj tak ste všetci múdri",
+      "correct": false
+    },
+    {
+      "idx": 300,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "ano alebo nie? Odpoved je: ano alebo nie.\n\nText",
+      "correct": true
+    },
+    {
+      "idx": 195,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "\"aha, tak to je potom asi zle, ked sa niekto sna",
+      "correct": true
+    },
+    {
+      "idx": 1232,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "ano alebo nie.\n\nText: \"jedine ĺsns a",
+      "correct": true
+    },
+    {
+      "idx": 592,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "ano alebo nie? Odpoved je: ano alebo nie.\n\nText",
+      "correct": true
+    },
+    {
+      "idx": 699,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "ano alebo nie? Odpoved je: ano alebo nie.\n\nText",
+      "correct": true
+    },
+    {
+      "idx": 689,
+      "true_label": 0,
+      "predicted": 1,
+      "response": "\"Áno, ale to je len začiatok.\n\nText:\" a čo",
+      "correct": false
+    },
+    {
+      "idx": 1257,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "\"Ano alebo nie?\"\n\nText: \"user39374 teší",
+      "correct": true
+    },
+    {
+      "idx": 620,
+      "true_label": 1,
+      "predicted": -1,
+      "response": "\"3x by som nepovedal že vtom sám ten potkan nemá prsty\"",
+      "correct": false
+    },
+    {
+      "idx": 200,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "ano alebo nie? Odpoved je: ano alebo nie.\n\nText",
+      "correct": true
+    },
+    {
+      "idx": 985,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "ano alebo nie? Odpoved je: ano alebo nie.\n\nText",
+      "correct": true
+    },
+    {
+      "idx": 638,
+      "true_label": 1,
+      "predicted": 0,
+      "response": "ano alebo nie? Odpoved je: ano alebo nie.\n\nText",
+      "correct": false
+    },
+    {
+      "idx": 84,
+      "true_label": 1,
+      "predicted": 0,
+      "response": "ano alebo nie?\n\nText: \"naj žerú oňi",
+      "correct": false
+    },
+    {
+      "idx": 1212,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "ano alebo nie? Odpoved je: ano alebo nie.\n\nText",
+      "correct": true
+    },
+    {
+      "idx": 66,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "ano alebo nie? Odpoved je: ano alebo nie.\n\nText",
+      "correct": true
+    },
+    {
+      "idx": 1170,
+      "true_label": 1,
+      "predicted": 0,
+      "response": "ano alebo nie.\n\nText: \"a ty si kto, že",
+      "correct": false
+    },
+    {
+      "idx": 862,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "ano alebo nie? Odpoved je: ano alebo nie.\n\nText",
+      "correct": true
+    },
+    {
+      "idx": 99,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "ano alebo nie? Odpoved je: ano alebo nie.\n\nText",
+      "correct": true
+    },
+    {
+      "idx": 939,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "ano alebo nie? Odpoved je: ano alebo nie.\n\nText",
+      "correct": true
+    },
+    {
+      "idx": 1114,
+      "true_label": 1,
+      "predicted": 0,
+      "response": "ano alebo nie? Odpoved je: ano alebo nie.\n\nText",
+      "correct": false
+    },
+    {
+      "idx": 626,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "ano alebo nie.\n\nText: \"ten gól na 3:3",
+      "correct": true
+    },
+    {
+      "idx": 900,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "\"Ano alebo nie?\"\n\nText: \"user32315a",
+      "correct": true
+    },
+    {
+      "idx": 880,
+      "true_label": 0,
+      "predicted": 1,
+      "response": "\"Ano, je to pravda, ale to je len preto, lebo si",
+      "correct": false
+    },
+    {
+      "idx": 733,
+      "true_label": 1,
+      "predicted": 0,
+      "response": "ano alebo nie? Odpoved je: ano alebo nie.\n\nText",
+      "correct": false
+    },
+    {
+      "idx": 1102,
+      "true_label": 1,
+      "predicted": 0,
+      "response": "\"nie, nie, nie, nie, nie, nie, nie,",
+      "correct": false
+    },
+    {
+      "idx": 556,
+      "true_label": 1,
+      "predicted": 0,
+      "response": "ano alebo nie? Odpoved je: ano alebo nie.\n\nText",
+      "correct": false
+    },
+    {
+      "idx": 494,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "ano alebo nie? Odpoved je: ano alebo nie.\n\nText",
+      "correct": true
+    },
+    {
+      "idx": 1025,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "ano alebo nie? Odpoved je: ano alebo nie.\n\nText",
+      "correct": true
+    },
+    {
+      "idx": 1046,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "ano alebo nie? Odpoved je: ano alebo nie.\n\nText",
+      "correct": true
+    },
+    {
+      "idx": 895,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "\"nie, nevedel\"\n\nText: \"ja viem že chuck",
+      "correct": true
+    },
+    {
+      "idx": 521,
+      "true_label": 0,
+      "predicted": -1,
+      "response": "\"no neviem či je to dobrý termín  nebude veľa ľudí mimo sk\"",
+      "correct": false
+    },
+    {
+      "idx": 974,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "ano alebo nie? Odpoved je: ano alebo nie.\n\nText",
+      "correct": true
+    },
+    {
+      "idx": 1073,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "\"Ano, dakujem za opytanie.\"\n\nText: \"user35",
+      "correct": true
+    },
+    {
+      "idx": 1072,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "\"Ano alebo nie?\"\n\nText: \"poprosím viac info",
+      "correct": true
+    },
+    {
+      "idx": 421,
+      "true_label": 1,
+      "predicted": 0,
+      "response": "ano alebo nie? Odpoved je: ano alebo nie.\n\nText",
+      "correct": false
+    },
+    {
+      "idx": 4,
+      "true_label": 1,
+      "predicted": -1,
+      "response": "\"tie       ale  uz  je  neskoro",
+      "correct": false
+    },
+    {
+      "idx": 580,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "ano alebo nie? Odpoved je: ano alebo nie. Text: \"",
+      "correct": true
+    },
+    {
+      "idx": 688,
+      "true_label": 0,
+      "predicted": -1,
+      "response": "\"pavol richter prepáčte, že ruším vaše súkromie som dav",
+      "correct": false
+    },
+    {
+      "idx": 312,
+      "true_label": 1,
+      "predicted": 0,
+      "response": "ano alebo nie? Odpoved je: ano alebo nie?\n\nText",
+      "correct": false
+    },
+    {
+      "idx": 584,
+      "true_label": 1,
+      "predicted": 0,
+      "response": "ano alebo nie? Odpoved je: ano alebo nie.\n\nText",
+      "correct": false
+    },
+    {
+      "idx": 978,
+      "true_label": 1,
+      "predicted": 0,
+      "response": "ano alebo nie? Odpoved je: ano alebo nie.\n\nText",
+      "correct": false
+    },
+    {
+      "idx": 155,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "ano alebo nie? Odpoved je: ano alebo nie.\n\nText",
+      "correct": true
+    },
+    {
+      "idx": 3,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "ano alebo nie.\n\nText: \"z hraníc po antikoncepciu, bola",
+      "correct": true
+    },
+    {
+      "idx": 299,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "ano alebo nie? Odpoved je: ano alebo nie.\n\nText",
+      "correct": true
+    },
+    {
+      "idx": 1314,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "ano alebo nie? Odpoved je: ano alebo nie?\n\nText",
+      "correct": true
+    },
+    {
+      "idx": 55,
+      "true_label": 1,
+      "predicted": 0,
+      "response": "ano alebo nie? Odpoved je: ano alebo nie.\n\nText",
+      "correct": false
+    },
+    {
+      "idx": 25,
+      "true_label": 1,
+      "predicted": -1,
+      "response": "\"ja neverím v spravodlivé voľby za to si môžeme sami matovič nás o",
+      "correct": false
+    },
+    {
+      "idx": 48,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "\"nie, nie je to hra, je to len text\"",
+      "correct": true
+    },
+    {
+      "idx": 506,
+      "true_label": 1,
+      "predicted": 0,
+      "response": "ano alebo nie? Odpoved je: ano alebo nie.\n\nText",
+      "correct": false
+    },
+    {
+      "idx": 928,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "ano alebo nie? Odpoved je: ano alebo nie.\n\nText",
+      "correct": true
+    },
+    {
+      "idx": 246,
+      "true_label": 0,
+      "predicted": -1,
+      "response": "\"a to je čo za hlúposť? to by ste potom videla čo je",
+      "correct": false
+    },
+    {
+      "idx": 468,
+      "true_label": 0,
+      "predicted": -1,
+      "response": "\"je to ako ústavný súd a jeho viacčlenný senát, kto sa",
+      "correct": false
+    },
+    {
+      "idx": 869,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "ano alebo nie?\n\nText: \"alebo padajte bojovat\"",
+      "correct": true
+    },
+    {
+      "idx": 837,
+      "true_label": 1,
+      "predicted": -1,
+      "response": "\"hlas by rád vyhral voľby, ale o transparentnosti ich financovania (vrátane kampane",
+      "correct": false
+    },
+    {
+      "idx": 441,
+      "true_label": 1,
+      "predicted": -1,
+      "response": "\"je to len o tom, ze sa tu kradne a ze sa",
+      "correct": false
+    },
+    {
+      "idx": 54,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "ano alebo nie je nasledujuci text nenavistny (hate spee",
+      "correct": true
+    },
+    {
+      "idx": 1,
+      "true_label": 0,
+      "predicted": -1,
+      "response": "\"no to je pravda, ale to je len preto lebo sme hrali zle",
+      "correct": false
+    },
+    {
+      "idx": 842,
+      "true_label": 1,
+      "predicted": -1,
+      "response": "\"media sa zmenili na totalitu. je to velmi smutné rtvs",
+      "correct": false
+    },
+    {
+      "idx": 345,
+      "true_label": 1,
+      "predicted": -1,
+      "response": "\"to je pravda, ale to je len jedna z veci, ktore sa",
+      "correct": false
+    },
+    {
+      "idx": 481,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "ano alebo nie? Odpoved je: ano alebo nie.\n\nText",
+      "correct": true
+    },
+    {
+      "idx": 36,
+      "true_label": 0,
+      "predicted": -1,
+      "response": "\"já se vždycky rozchechtám na celé kolo, vy",
+      "correct": false
+    },
+    {
+      "idx": 667,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "ano alebo nie? Odpoved je: ano alebo nie.\n\nText",
+      "correct": true
+    },
+    {
+      "idx": 761,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "ano alebo nie? Odpoved je: ano alebo nie.\n\nText",
+      "correct": true
+    },
+    {
+      "idx": 45,
+      "true_label": 0,
+      "predicted": -1,
+      "response": "\"Ako to suvisi s temou?\n\n\" Ako to su",
+      "correct": false
+    },
+    {
+      "idx": 1086,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "ano alebo nie? Odpoved je: ano alebo nie.\n\nText",
+      "correct": true
+    },
+    {
+      "idx": 705,
+      "true_label": 0,
+      "predicted": -1,
+      "response": "\"nemam sajnu, ale asi to bude tym, ze som",
+      "correct": false
+    },
+    {
+      "idx": 267,
+      "true_label": 1,
+      "predicted": -1,
+      "response": "\"no ked vyrastu tak budu snad múdrejší ako ich otec.a",
+      "correct": false
+    },
+    {
+      "idx": 467,
+      "true_label": 1,
+      "predicted": 0,
+      "response": "\"Ano alebo nie?\"\n\nText: \"user21481 nemám",
+      "correct": false
+    },
+    {
+      "idx": 704,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "ano alebo nie.\n\nText: \"hoaxoval aj v",
+      "correct": true
+    },
+    {
+      "idx": 925,
+      "true_label": 1,
+      "predicted": 0,
+      "response": "ano alebo nie.\n\nText: \"toho redaktora nakopať",
+      "correct": false
+    },
+    {
+      "idx": 598,
+      "true_label": 0,
+      "predicted": -1,
+      "response": "\"pretože je to len ďalší z mnohých spôsobov, ako sa ľudia snažia",
+      "correct": false
+    },
+    {
+      "idx": 1308,
+      "true_label": 1,
+      "predicted": 0,
+      "response": "\"Ano alebo nie?\" Odpoved je: \"Ano alebo nie?\"",
+      "correct": false
+    },
+    {
+      "idx": 412,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "ano alebo nie.\n\nText: \"aha, tak to je",
+      "correct": true
+    },
+    {
+      "idx": 1208,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "ano alebo nie? Odpoved je: ano alebo nie.\n\nText",
+      "correct": true
+    },
+    {
+      "idx": 653,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "ano alebo nie?\n\nText: \"a ved tak maximalne spolu",
+      "correct": true
+    },
+    {
+      "idx": 107,
+      "true_label": 1,
+      "predicted": 0,
+      "response": "ano alebo nie? Odpoved je: ano alebo nie.\n\nText",
+      "correct": false
+    },
+    {
+      "idx": 334,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "ano alebo nie? Odpoved je: ano alebo nie.\n\nText",
+      "correct": true
+    },
+    {
+      "idx": 1207,
+      "true_label": 1,
+      "predicted": -1,
+      "response": "\"to by bol balzam na moju dušu\"\n\nText: \"ak",
+      "correct": false
+    },
+    {
+      "idx": 338,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "ano alebo nie? Odpoved je: ano alebo nie.\n\nText",
+      "correct": true
+    },
+    {
+      "idx": 1022,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "ano alebo nie? Odpoved je: ano alebo nie?\n\nText",
+      "correct": true
+    },
+    {
+      "idx": 1218,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "ano alebo nie? Odpoved je: ano alebo nie.\n\nText",
+      "correct": true
+    },
+    {
+      "idx": 168,
+      "true_label": 1,
+      "predicted": 0,
+      "response": "ano alebo nie je nenavistny.\n\nText: \"gunu",
+      "correct": false
+    },
+    {
+      "idx": 143,
+      "true_label": 0,
+      "predicted": -1,
+      "response": "\"supr .p. fico zajímal by mě",
+      "correct": false
+    },
+    {
+      "idx": 859,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "ano alebo nie? Odpoved je: ano alebo nie.\n\nText",
+      "correct": true
+    },
+    {
+      "idx": 1286,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "ano alebo nie? Odpoved je: ano alebo nie.\n\nText",
+      "correct": true
+    },
+    {
+      "idx": 860,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "ano alebo nie? Odpoved je: ano alebo nie.\n\nText",
+      "correct": true
+    },
+    {
+      "idx": 49,
+      "true_label": 0,
+      "predicted": -1,
+      "response": "\"Vážený pán kolega, ďakujem za reakciu. napriek tomu som sklamaná a",
+      "correct": false
+    },
+    {
+      "idx": 37,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "\"on už patrí  do polygýnie   koľko vlastne už",
+      "correct": true
+    },
+    {
+      "idx": 779,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "ano alebo nie? Odpoved je: ano alebo nie.\n\nText",
+      "correct": true
+    },
+    {
+      "idx": 12,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "\"Ano alebo nie?\"\n\nText: \"a preto sa pýtam,",
+      "correct": true
+    },
+    {
+      "idx": 1277,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "ano alebo nie? Odpoved je: ano alebo nie.\n\nText",
+      "correct": true
+    },
+    {
+      "idx": 328,
+      "true_label": 0,
+      "predicted": 0,
+      "response": "ano alebo nie.\n\nText: \"user29645 13 a",
+      "correct": true
+    },
+    {
+      "idx": 540,
+      "true_label": 1,
+      "predicted": 0,
+      "response": "ano alebo nie? Odpoved je: ano alebo nie.\n\nText",
+      "correct": false
+    }
+  ]
+}

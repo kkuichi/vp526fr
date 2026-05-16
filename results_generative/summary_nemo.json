@@ -1,0 +1,10 @@
+{
+  "model": "open-mistral-nemo",
+  "results": {
+    "sentiment-analysis": 96.0,
+    "hate-speech": 72.0,
+    "nli": 41.0,
+    "rte": 72.0,
+    "sts_pearson": 0.5276
+  }
+}

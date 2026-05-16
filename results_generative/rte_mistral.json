@@ -1,0 +1,609 @@
+{
+  "task": "rte",
+  "model": "mistral-small-latest",
+  "accuracy": 63.0,
+  "correct": 63,
+  "total": 100,
+  "predictions": [
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "nie",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "nie",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 1,
+      "response": "nie",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "nie",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 1,
+      "response": "nie",
+      "correct": false
+    },
+    {
+      "true": 0,
+      "pred": 1,
+      "response": "nie",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "nie",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 0,
+      "response": "Odpoved: **áno**",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "nie",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "nie",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 1,
+      "response": "nie",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "nie",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 0,
+      "response": "ano",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "nie",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 1,
+      "response": "nie",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "nie",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "nie",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 0,
+      "response": "ano",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "nie",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 1,
+      "response": "nie",
+      "correct": false
+    },
+    {
+      "true": 0,
+      "pred": 1,
+      "response": "nie",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "nie",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 0,
+      "response": "ano",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 1,
+      "response": "nie",
+      "correct": false
+    },
+    {
+      "true": 0,
+      "pred": 1,
+      "response": "nie",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "nie",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 1,
+      "response": "nie",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "nie",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "nie",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 0,
+      "response": "ano",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "nie",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 0,
+      "response": "ano",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 1,
+      "response": "nie",
+      "correct": false
+    },
+    {
+      "true": 0,
+      "pred": 0,
+      "response": "ano",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 1,
+      "response": "nie",
+      "correct": false
+    },
+    {
+      "true": 0,
+      "pred": 1,
+      "response": "nie",
+      "correct": false
+    },
+    {
+      "true": 0,
+      "pred": 0,
+      "response": "ano",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "nie",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "nie",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "nie",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 1,
+      "response": "nie",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "nie",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 1,
+      "response": "nie",
+      "correct": false
+    },
+    {
+      "true": 0,
+      "pred": 0,
+      "response": "ano",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "nie",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 1,
+      "response": "nie",
+      "correct": false
+    },
+    {
+      "true": 0,
+      "pred": 1,
+      "response": "nie",
+      "correct": false
+    },
+    {
+      "true": 0,
+      "pred": 1,
+      "response": "nie",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": 0,
+      "response": "ano",
+      "correct": false
+    },
+    {
+      "true": 0,
+      "pred": 0,
+      "response": "ano",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "nie",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "nie",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "nie",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "nie",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "nie",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 1,
+      "response": "nie",
+      "correct": false
+    },
+    {
+      "true": 0,
+      "pred": 0,
+      "response": "ano",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 1,
+      "response": "nie",
+      "correct": false
+    },
+    {
+      "true": 0,
+      "pred": 1,
+      "response": "nie",
+      "correct": false
+    },
+    {
+      "true": 0,
+      "pred": 0,
+      "response": "ano",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "nie",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 1,
+      "response": "nie",
+      "correct": false
+    },
+    {
+      "true": 0,
+      "pred": 1,
+      "response": "nie",
+      "correct": false
+    },
+    {
+      "true": 0,
+      "pred": 0,
+      "response": "ano",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 0,
+      "response": "ano",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 1,
+      "response": "nie",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "nie",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 1,
+      "response": "nie",
+      "correct": false
+    },
+    {
+      "true": 0,
+      "pred": 1,
+      "response": "nie",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "nie",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "nie",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "nie",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 0,
+      "response": "ano",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 1,
+      "response": "nie",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "nie",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "nie",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "nie",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "nie",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 1,
+      "response": "nie",
+      "correct": false
+    },
+    {
+      "true": 0,
+      "pred": 0,
+      "response": "ano",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 1,
+      "response": "nie",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "nie",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "nie",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 1,
+      "response": "nie",
+      "correct": false
+    },
+    {
+      "true": 0,
+      "pred": 0,
+      "response": "ano",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 0,
+      "response": "ano",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "nie",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "nie",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 1,
+      "response": "nie",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "nie",
+      "correct": true
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "nie",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 0,
+      "response": "ano",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 1,
+      "response": "nie",
+      "correct": false
+    },
+    {
+      "true": 0,
+      "pred": 1,
+      "response": "nie",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "nie",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 1,
+      "response": "nie",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "nie",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 1,
+      "response": "nie",
+      "correct": false
+    },
+    {
+      "true": 1,
+      "pred": 1,
+      "response": "nie",
+      "correct": true
+    },
+    {
+      "true": 0,
+      "pred": 1,
+      "response": "nie",
+      "correct": false
+    }
+  ]
+}

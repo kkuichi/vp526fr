@@ -1,0 +1,12 @@
+﻿__pycache__/
+*.pyc
+venv/
+venv_new/
+results/*/checkpoint-*
+results/*/model.safetensors
+results/*/optimizer.pt
+results/*/rng_state.pth
+results/*/scheduler.pt
+results/*/training_args.bin
+.cache/
+*.egg-info/

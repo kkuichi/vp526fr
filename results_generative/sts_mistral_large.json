@@ -1,0 +1,5 @@
+{
+  "task": "sts",
+  "model": "mistral-large-latest",
+  "pearson": 0.7231
+}

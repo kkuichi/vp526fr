@@ -1,0 +1,5 @@
+{
+  "task": "sts",
+  "model": "open-mistral-nemo",
+  "pearson": 0.5276
+}

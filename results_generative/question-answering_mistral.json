@@ -1,0 +1,5 @@
+{
+  "task": "question-answering",
+  "model": "mistral-small-latest",
+  "accuracy": 68.0
+}

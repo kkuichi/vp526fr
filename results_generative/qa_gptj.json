@@ -1,0 +1,5 @@
+{
+  "task": "question-answering",
+  "model": "Milos/slovak-gpt-j-1.4B",
+  "accuracy": 16.0
+}

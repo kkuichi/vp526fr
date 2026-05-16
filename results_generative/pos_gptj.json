@@ -1,0 +1,5 @@
+{
+  "task": "pos",
+  "model": "Milos/slovak-gpt-j-1.4B",
+  "token_accuracy": 0.0
+}

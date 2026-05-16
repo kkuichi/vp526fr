@@ -1,0 +1,10 @@
+{
+  "model": "Milos/slovak-gpt-j-1.4B",
+  "max_samples": 100,
+  "results": {
+    "sentiment-analysis": 5.0,
+    "hate-speech": 56.00000000000001,
+    "nli": 39.0,
+    "rte": 33.0
+  }
+}
